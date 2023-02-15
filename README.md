@@ -303,6 +303,8 @@
 
 - [网页地址栏favicon图标制作](https://www.fly63.com/tool/favicon)
 
+- [图片文字提取工具](https://www.fly63.com/tool/tesseract)
+
 ## 生活工具
 
 - [科学计算器](https://www.fly63.com/tool/jisuanqi/)
@@ -373,6 +375,8 @@
 
 ## 娱乐工具
 
+- [好玩的IOS优质App推荐](https://www.fly63.com/tool/app)
+
 - [高颜值视频聊天交友](https://www.fly63.com/zhibo)
 
 - [毒鸡汤句子语录](https://www.fly63.com/php/dujitang/)
@@ -406,6 +410,12 @@
 - [土味情话查询大全](https://www.fly63.com/tool/love)
 
 - [经典绕口令大全](https://www.fly63.com/tool/rkl)
+
+- [狗屁不通文章生成器](https://www.fly63.com/tool/bullshitGenerator)
+
+- [彩虹屁文案生成器](https://www.fly63.com/tool/rainbowfart)
+
+- [每日一首古诗词](https://www.fly63.com/php/poetry)
 
 ## 其它工具
 
@@ -459,6 +469,8 @@
 
 - [程序员导航](https://www.fly63.com/tool/cxy)
 
+- [汉语在线分词工具](https://www.fly63.com/tool/segmentit)
+
 ## 第三方工具
 
 - [网名在线生成器](https://www.qmsjmfb.com/)
@@ -490,6 +502,8 @@
 - [图片智能放大](https://bigjpg.com/)
 
 - [在线抠图工具](https://www.remove.bg/zh)
+
+- [在线代码运行](https://r.xjq.icu)
 
 ## 优惠券领取
 
