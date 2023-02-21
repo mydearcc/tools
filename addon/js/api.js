@@ -860,7 +860,7 @@ var classify = [{
 		"img": ""
 	}, {
 		"name": "土味情话查询生成器",
-		"url": "/tool/tool/love/",
+		"url": "/tool/love/",
 		"hot": 0,
 		"img": ""
 	}, {
@@ -870,7 +870,7 @@ var classify = [{
 		"img": ""
 	}, {
 		"name": "笑话大全",
-		"url": "/tool/tool/joke/",
+		"url": "/tool/joke/",
 		"hot": 0,
 		"img": ""
 	}, {
