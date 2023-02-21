@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>fly63工具箱</title>
+		<meta name=viewport content="width=device-width,initial-scale=1">
+        <meta charset="utf-8"/>
+		<link rel=stylesheet type=text/css href="css/popup.css">
+    </head>
+    <body>
+		<div id="app">
+			<div class="head">
+				<div id="logo">
+					<img src="img/logo.jpg"/><span>fly63工具箱</span>
+				</div>
+				<div class="ipt">
+					<svg t="1663905334067" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2554" width="128" height="128"><path d="M966.4 924.8l-230.4-227.2c60.8-67.2 96-156.8 96-256 0-217.6-176-390.4-390.4-390.4-217.6 0-390.4 176-390.4 390.4 0 217.6 176 390.4 390.4 390.4 99.2 0 188.8-35.2 256-96l230.4 227.2c9.6 9.6 28.8 9.6 38.4 0C979.2 950.4 979.2 934.4 966.4 924.8zM102.4 441.6c0-185.6 150.4-339.2 339.2-339.2s339.2 150.4 339.2 339.2c0 89.6-35.2 172.8-92.8 233.6-3.2 0-3.2 3.2-6.4 3.2-3.2 3.2-3.2 3.2-3.2 6.4-60.8 57.6-144 92.8-233.6 92.8C256 780.8 102.4 627.2 102.4 441.6z" p-id="2555" fill="#34495e"></path></svg>
+					<input id="keyword" type="text" maxlength="18" placeholder="请输入关键词进行搜索"/>
+					<svg class="close" id="closekeyword" style="display: none;" t="1663905626995" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3868" width="128" height="128"><path d="M512 1024C229.248 1024 0 794.752 0 512S229.248 0 512 0s512 229.248 512 512-229.248 512-512 512z m0-572.330667L300.629333 240.213333a42.538667 42.538667 0 0 0-60.16 0.213334 42.410667 42.410667 0 0 0-0.213333 60.16L451.669333 512 240.213333 723.370667a42.538667 42.538667 0 0 0 0.213334 60.16 42.410667 42.410667 0 0 0 60.16 0.213333L512 572.330667l211.370667 211.413333a42.538667 42.538667 0 0 0 60.16-0.213333 42.410667 42.410667 0 0 0 0.213333-60.16L572.330667 512l211.413333-211.370667a42.538667 42.538667 0 0 0-0.213333-60.16 42.410667 42.410667 0 0 0-60.16-0.213333L512 451.669333z" fill="#34495e" p-id="3869"></path></svg>
+					<div id="searchContent"></div>
+				</div>
+				<div class="classify" id="classify">
+					<span>分类</span>
+					<svg t="1663911511167" id="cls" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4842" width="128" height="128"><path d="M533.333333 631.466667L866.133333 298.666667l29.866667 29.866666-362.666667 362.666667L170.666667 328.533333l29.866666-29.866666 332.8 332.8z" fill="#34495e" p-id="4843"></path></svg>
+				</div>
+			</div>
+			<div id="nav" style="display: none;"></div>
+			<div id="line" style="height:44px;"></div>
+			<div id="list"></div>
+		</div>
+    </body>
+</html>
+<script src="js/api.js"></script>
+<script src="js/popup.js"></script>

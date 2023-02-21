@@ -1,0 +1,24 @@
+{
+	"manifest_version": 3,
+	"name": "fly63工具箱",
+	"version": "1.0.0",
+	"action": {
+		"default_icon": {
+			"16": "img/icon16.png",
+			"24": "img/icon24.png",
+			"32": "img/icon32.png"
+		},
+		"default_title": "fly63工具箱",
+		"default_popup": "popup.html"
+	},
+	"homepage_url": "https://www.fly63.com",
+	"host_permissions": ["https://*.fly63.com/*"],
+	"description": "一款在线高效实用工具箱，无需客户端在线一键使用。拥有近上百款工具包括:程序员在线文档、在线转换、加密解密、站长工具、代码开发、Css样式、文本工具、二维码处理、图片处理、生活办公、娱乐工具等等。",
+	"icons": {
+		"16": "img/icon16.png",
+		"48": "img/icon48.png",
+		"128": "img/icon128.png"
+	},
+	"author": "fly63.com",
+	"update_url": "https://clients2.google.com/service/update2/crx"
+}
