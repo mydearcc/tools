@@ -417,6 +417,10 @@
 
 - [每日一首古诗词](https://www.fly63.com/php/poetry)
 
+- [好玩的IOS优质App推荐](https://www.fly63.com/tool/app)
+
+- [谷歌吉他在线版](https://www.fly63.com/tool/guitar)
+
 ## 其它工具
 
 - [在线排版工具](https://www.fly63.com/tool/paiban/)
