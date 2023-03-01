@@ -307,6 +307,8 @@
 
 - [图片文字提取工具](https://www.fly63.com/tool/tesseract)
 
+- [在线画桌白板工具](https://www.fly63.com/tool/whiteboard)
+
 ## 生活工具
 
 - [科学计算器](https://www.fly63.com/tool/jisuanqi/)
