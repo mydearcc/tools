@@ -264,6 +264,11 @@ var classify = [{
 		"url": "/php/hotnews/",
 		"hot": 0,
 		"img": ""
+	},{
+		"name": "m3u8视频在线提取工具",
+		"url": "/tool/m3u8/",
+		"hot": 0,
+		"img": ""
 	}]
 }, {
 	"id": 4,
@@ -638,6 +643,11 @@ var classify = [{
 	}, {
 		"name": "网页地址栏favicon图标制作",
 		"url": "/tool/favicon/",
+		"hot": 0,
+		"img": ""
+	}, {
+		"name": "在线画桌白板工具",
+		"url": "/tool/whiteboard/",
 		"hot": 0,
 		"img": ""
 	}]
