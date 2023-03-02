@@ -269,6 +269,11 @@ var classify = [{
 		"url": "/tool/m3u8/",
 		"hot": 0,
 		"img": ""
+	},{
+		"name": "微信域名拦截检测",
+		"url": "/php/wxCheck/",
+		"hot": 0,
+		"img": ""
 	}]
 }, {
 	"id": 4,

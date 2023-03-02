@@ -151,6 +151,8 @@
 
 - [m3u8视频在线提取工具](https://www.fly63.com/tool/m3u8)
 
+- [微信域名拦截检测](https://www.fly63.com/php/wxCheck)
+
 ## 代码相关
 
 - [Javascript或HTML在线美化，格式化](https://www.fly63.com/tool/beautify/)

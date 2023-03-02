@@ -1093,5 +1093,10 @@
         "title":"在线画桌白板工具",
         "url":"https://www.fly63.com/tool/whiteboard",
         "type":"图片"
+    },
+    {
+        "title":"微信域名拦截检测",
+        "url":"https://www.fly63.com/php/wxCheck",
+        "type":"站长"
     }
 ]
