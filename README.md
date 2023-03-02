@@ -517,6 +517,8 @@
 
 - [CyberChef Tools](https://cyberchef.cn/)
 
+- [Git速查表](https://cheatsheet.wang/)
+
 ## 优惠券领取
 
 - [阿里云优惠券](https://www.fly63.com/nav/2907)
