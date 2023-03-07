@@ -274,7 +274,11 @@ var classify = [{
 		"url": "/php/wxCheck/",
 		"hot": 0,
 		"img": ""
-	}]
+	},{
+        "title":"PDF文字识别",
+        "url":"https://www.fly63.com/tool/pdfdraw",
+        "type":"站长"
+    }]
 }, {
 	"id": 4,
 	"name": "代码开发",

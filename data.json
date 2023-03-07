@@ -1098,5 +1098,10 @@
         "title":"微信域名拦截检测",
         "url":"https://www.fly63.com/php/wxCheck",
         "type":"站长"
+    },
+    {
+        "title":"PDF文字识别",
+        "url":"https://www.fly63.com/tool/pdfdraw",
+        "type":"站长"
     }
 ]

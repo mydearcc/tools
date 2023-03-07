@@ -153,6 +153,8 @@
 
 - [微信域名拦截检测](https://www.fly63.com/php/wxCheck)
 
+- [PDF文字识别](https://www.fly63.com/tool/pdfdraw)
+
 ## 代码相关
 
 - [Javascript或HTML在线美化，格式化](https://www.fly63.com/tool/beautify/)
