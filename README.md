@@ -381,6 +381,8 @@
 
 - [白噪音,聆听大自然的声音](https://www.fly63.com/tool/relax)
 
+- [lrc歌词在线编辑工具](https://www.fly63.com/tool/lrc_editor)
+
 ## 娱乐工具
 
 - [好玩的IOS优质App推荐](https://www.fly63.com/tool/app)

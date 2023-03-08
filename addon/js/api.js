@@ -808,7 +808,11 @@ var classify = [{
 		"url": "/tool/relax/",
 		"hot": 0,
 		"img": ""
-	}]
+	} ,{
+        "title":"lrc歌词在线编辑工具",
+        "url":"https://www.fly63.com/tool/lrc_editor/",
+        "type":"生活"
+    }]
 }, {
 	"id": 9,
 	"name": "娱乐工具",
