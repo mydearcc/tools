@@ -111,6 +111,8 @@
 
 - [文章伪原创工具_免费在线生成器](https://www.fly63.com/php/weiyuanchuang/)
 
+- [AI提示词常用指令](https://www.fly63.com/tool/aishort/)
+
 - [Markdown在线编辑器](https://www.fly63.com/tool/markdown/)
 
 - [占位图在线生成](https://www.fly63.com/tool/bitmap/)

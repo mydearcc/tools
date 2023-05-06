@@ -185,6 +185,11 @@ var classify = [{
 		"hot": 1,
 		"img": ""
 	}, {
+		"name": "AI提示词常用指令",
+		"url": "/tool/aishort/",
+		"hot": 1,
+		"img": ""
+	}, {
 		"name": "Markdown在线编辑器",
 		"url": "/tool/markdown/",
 		"hot": 0,
