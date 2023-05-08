@@ -101,7 +101,7 @@ function setSearch(value){
 	for (var i in classify) {
 		for (var j in classify[i].list) {
 			var li = classify[i].list[j];
-			if (li.name.toLowerCase().indexOf(value) > -1) {
+			if (!!li.name && li.name.toLowerCase().indexOf(value) > -1) {
 				shtml += `<div class="ssli" idx="${i}_${j}" class="${li.hot==1 ? 'hot' : ''}" title="${li.name}">${li.name}</div>`; 
 			}
 		}

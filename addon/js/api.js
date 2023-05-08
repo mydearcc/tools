@@ -189,7 +189,7 @@ var classify = [{
 		"url": "/tool/aishort/",
 		"hot": 1,
 		"img": ""
-	}, {
+	},{
 		"name": "Markdown在线编辑器",
 		"url": "/tool/markdown/",
 		"hot": 0,
@@ -269,18 +269,17 @@ var classify = [{
 		"url": "/php/hotnews/",
 		"hot": 0,
 		"img": ""
-	},{
+	}, {
 		"name": "m3u8视频在线提取工具",
 		"url": "/tool/m3u8/",
 		"hot": 0,
 		"img": ""
-	},{
-		"name": "微信域名拦截检测",
-		"url": "/php/wxCheck/",
-		"hot": 0,
-		"img": ""
-	},{
-        "title":"PDF文字识别",
+	}, {
+        "name":"微信域名拦截检测",
+        "url":"https://www.fly63.com/php/wxCheck",
+        "type":"站长"
+    }, {
+        "name":"PDF文字识别",
         "url":"https://www.fly63.com/tool/pdfdraw",
         "type":"站长"
     }]
@@ -814,7 +813,7 @@ var classify = [{
 		"hot": 0,
 		"img": ""
 	} ,{
-        "title":"lrc歌词在线编辑工具",
+        "name":"lrc歌词在线编辑工具",
         "url":"https://www.fly63.com/tool/lrc_editor/",
         "type":"生活"
     }]
