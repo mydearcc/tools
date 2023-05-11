@@ -816,6 +816,10 @@ var classify = [{
         "name":"lrc歌词在线编辑工具",
         "url":"https://www.fly63.com/tool/lrc_editor/",
         "type":"生活"
+    } ,{
+        "name":"食物嘌呤查询_痛风及高尿酸血症饮食表",
+        "url":"https://www.fly63.com/tool/purine/",
+        "type":"生活"
     }]
 }, {
 	"id": 9,

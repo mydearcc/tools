@@ -385,6 +385,8 @@
 
 - [lrc歌词在线编辑工具](https://www.fly63.com/tool/lrc_editor)
 
+- [食物嘌呤查询_痛风及高尿酸血症饮食表](https://www.fly63.com/tool/purine)
+
 ## 娱乐工具
 
 - [好玩的IOS优质App推荐](https://www.fly63.com/tool/app)
