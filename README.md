@@ -387,6 +387,8 @@
 
 - [食物嘌呤查询_痛风及高尿酸血症饮食表](https://www.fly63.com/tool/purine)
 
+- [食物营养成分查询](https://www.fly63.com/tool/food)
+
 ## 娱乐工具
 
 - [好玩的IOS优质App推荐](https://www.fly63.com/tool/app)

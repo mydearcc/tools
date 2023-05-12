@@ -812,13 +812,17 @@ var classify = [{
 		"url": "/tool/relax/",
 		"hot": 0,
 		"img": ""
-	} ,{
+	}, {
         "name":"lrc歌词在线编辑工具",
         "url":"https://www.fly63.com/tool/lrc_editor/",
         "type":"生活"
-    } ,{
+    }, {
         "name":"食物嘌呤查询_痛风及高尿酸血症饮食表",
         "url":"https://www.fly63.com/tool/purine/",
+        "type":"生活"
+    }, {
+        "name":"食物营养成分查询",
+        "url":"https://www.fly63.com/tool/food/",
         "type":"生活"
     }]
 }, {
