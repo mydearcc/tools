@@ -315,6 +315,8 @@
 
 - [在线画桌白板工具](https://www.fly63.com/tool/whiteboard)
 
+- [像素画板工具](https://www.fly63.com/tool/pixeldraw)
+
 ## 生活工具
 
 - [科学计算器](https://www.fly63.com/tool/jisuanqi/)

@@ -1123,5 +1123,10 @@
         "name":"食物营养成分查询",
         "url":"https://www.fly63.com/tool/food/",
         "type":"生活"
+    },
+    {
+        "name":"像素画板工具",
+        "url":"https://www.fly63.com/tool/pixeldraw",
+        "type":"图片"
     }
 ]

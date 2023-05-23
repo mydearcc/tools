@@ -663,7 +663,11 @@ var classify = [{
 		"url": "/tool/whiteboard/",
 		"hot": 0,
 		"img": ""
-	}]
+	}, {
+        "name":"像素画板工具",
+        "url":"/tool/pixeldraw/",
+        "type":"图片"
+    }]
 }, {
 	"id": 8,
 	"name": "生活工具",
