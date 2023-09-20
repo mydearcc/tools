@@ -493,6 +493,8 @@
 
 - [汉语在线分词工具](https://www.fly63.com/tool/segmentit)
 
+- [神奇字体_怪异英文生成器](https://www.fly63.com/tool/weirdfonts)
+
 ## 第三方工具
 
 - [网名在线生成器](https://www.qmsjmfb.com/)

@@ -1150,6 +1150,11 @@ var classify = [{
 		"url": "/tool/segmentit/",
 		"hot": 0,
 		"img": ""
+	},{
+		"name": "神奇字体_怪异英文生成器",
+		"url": "/tool/weirdfonts/",
+		"hot": 0,
+		"img": ""
 	}]
 }, {
 	"id": 12,

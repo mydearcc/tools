@@ -1128,5 +1128,10 @@
         "name":"像素画板工具",
         "url":"https://www.fly63.com/tool/pixeldraw",
         "type":"图片"
+    },
+    {
+        "name":"神奇字体_怪异英文生成器",
+        "url":"https://www.fly63.com/tool/weirdfonts",
+        "type":"其他"
     }
 ]
