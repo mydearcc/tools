@@ -277,11 +277,18 @@ var classify = [{
 	}, {
         "name":"微信域名拦截检测",
         "url":"https://www.fly63.com/php/wxCheck",
-        "type":"站长"
+        "hot": 0,
+		"img": ""
     }, {
         "name":"PDF文字识别",
         "url":"https://www.fly63.com/tool/pdfdraw",
-        "type":"站长"
+        "hot": 0,
+		"img": ""
+    }, {
+        "name":"敏感词/违禁词检测",
+        "url":"https://www.fly63.com/tool/textcensoring",
+        "hot": 1,
+		"img": ""
     }]
 }, {
 	"id": 4,
@@ -666,7 +673,8 @@ var classify = [{
 	}, {
         "name":"像素画板工具",
         "url":"/tool/pixeldraw/",
-        "type":"图片"
+        "hot": 0,
+		"img": ""
     }]
 }, {
 	"id": 8,
@@ -819,15 +827,18 @@ var classify = [{
 	}, {
         "name":"lrc歌词在线编辑工具",
         "url":"https://www.fly63.com/tool/lrc_editor/",
-        "type":"生活"
+        "hot": 0,
+		"img": ""
     }, {
         "name":"食物嘌呤查询_痛风及高尿酸血症饮食表",
         "url":"https://www.fly63.com/tool/purine/",
-        "type":"生活"
+        "hot": 0,
+		"img": ""
     }, {
         "name":"食物营养成分查询",
         "url":"https://www.fly63.com/tool/food/",
-        "type":"生活"
+        "hot": 0,
+		"img": ""
     }]
 }, {
 	"id": 9,

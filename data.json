@@ -1133,5 +1133,10 @@
         "name":"神奇字体_怪异英文生成器",
         "url":"https://www.fly63.com/tool/weirdfonts",
         "type":"其他"
+    },
+    {
+        "name":"敏感词/违禁词检测",
+        "url":"https://www.fly63.com/tool/textcensoring",
+        "type":"站长"
     }
 ]
