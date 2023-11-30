@@ -130,7 +130,7 @@
         "type":"娱乐"
     },
     {
-        "name":"彩虹屁文案生成器",
+        "name":"彩虹屁文章生成器",
         "url":"https://www.fly63.com/tool/rainbowfart/",
         "type":"娱乐"
     },
@@ -1138,5 +1138,15 @@
         "name":"敏感词/违禁词检测",
         "url":"https://www.fly63.com/tool/textcensoring",
         "type":"站长"
+    },
+    {
+        "name":"舔狗日记",
+        "url":"https://www.fly63.com/php/wedog",
+        "type":"娱乐"
+    },
+    {
+        "name":"彩虹屁文案语录",
+        "url":"https://www.fly63.com/php/caihongpi",
+        "type":"娱乐"
     }
 ]

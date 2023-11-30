@@ -391,7 +391,7 @@
 
 - [食物营养成分查询](https://www.fly63.com/tool/food)
 
-## 娱乐工具
+## 娱乐相关
 
 - [好玩的IOS优质App推荐](https://www.fly63.com/tool/app)
 
@@ -431,13 +431,17 @@
 
 - [狗屁不通文章生成器](https://www.fly63.com/tool/bullshitGenerator)
 
-- [彩虹屁文案生成器](https://www.fly63.com/tool/rainbowfart)
+- [彩虹屁文章生成器](https://www.fly63.com/tool/rainbowfart)
 
 - [每日一首古诗词](https://www.fly63.com/php/poetry)
 
 - [好玩的IOS优质App推荐](https://www.fly63.com/tool/app)
 
 - [谷歌吉他在线版](https://www.fly63.com/tool/guitar)
+
+- [舔狗日记](https://www.fly63.com/php/wedog)
+
+- [彩虹屁文案语录](https://www.fly63.com/php/caihongpi)
 
 ## 其它工具
 

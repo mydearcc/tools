@@ -934,7 +934,7 @@ var classify = [{
 		"hot": 1,
 		"img": ""
 	}, {
-		"name": "彩虹屁文案生成器",
+		"name": "彩虹屁文章生成器",
 		"url": "/tool/rainbowfart/",
 		"hot": 1,
 		"img": ""
@@ -946,6 +946,21 @@ var classify = [{
 	}, {
 		"name": "好玩的IOS优质App推荐",
 		"url": "/tool/app/",
+		"hot": 0,
+		"img": ""
+	}, {
+		"name": "谷歌吉他在线版",
+		"url": "/tool/guitar/",
+		"hot": 0,
+		"img": ""
+	},{
+		"name": "舔狗日记",
+		"url": "/php/wedog/",
+		"hot": 0,
+		"img": ""
+	}, {
+		"name": "彩虹屁文案语录",
+		"url": "/php/caihongpi/",
 		"hot": 0,
 		"img": ""
 	}]
