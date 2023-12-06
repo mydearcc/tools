@@ -924,11 +924,6 @@ var classify = [{
 		"hot": 0,
 		"img": ""
 	}, {
-		"name": "高颜值视频聊天交友",
-		"url": "/zhibo/",
-		"hot": 1,
-		"img": ""
-	}, {
 		"name": "狗屁不通文章生成器",
 		"url": "/tool/bullshitGenerator/",
 		"hot": 1,

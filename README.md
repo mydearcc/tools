@@ -395,8 +395,6 @@
 
 - [好玩的IOS优质App推荐](https://www.fly63.com/tool/app)
 
-- [高颜值视频聊天交友](https://www.fly63.com/zhibo)
-
 - [毒鸡汤句子语录](https://www.fly63.com/php/dujitang/)
 
 - [经典文案,句子语录大全](https://www.fly63.com/php/juzi/)
