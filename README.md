@@ -391,6 +391,8 @@
 
 - [食物营养成分查询](https://www.fly63.com/tool/food)
 
+- [饮水量计算器_每日喝水量](https://www.fly63.com/tool/heshui)
+
 ## 娱乐相关
 
 - [好玩的IOS优质App推荐](https://www.fly63.com/tool/app)
