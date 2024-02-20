@@ -1147,5 +1147,10 @@
 		"name": "饮水量计算器_每日喝水量",
 		"url": "https://www.fly63.com/tool/heshui",
 		"type": "生活"
+	},
+	{
+		"name": "支付宝微信收款码二合一",
+		"url": "https://www.fly63.com/tool/alipay",
+		"type": "二维码"
 	}
 ]

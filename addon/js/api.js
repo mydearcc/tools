@@ -556,6 +556,11 @@ var classify = [{
 		"url": "/php/barcode",
 		"hot": 0,
 		"img": ""
+	}, {
+		"name": "支付宝微信收款码二合一",
+		"url": "/tool/alipay",
+		"hot": 0,
+		"img": ""
 	}]
 }, {
 	"id": 7,

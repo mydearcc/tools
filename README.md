@@ -269,6 +269,8 @@
 
 - [条形码生成器 - 在线制作工具](https://www.fly63.com/php/barcode/)
 
+- [支付宝微信收款码二合一](https://www.fly63.com/tool/alipay/)
+
 ## 图片处理
 
 - [图片在线转换Base64数据](https://www.fly63.com/tool/base64/)
