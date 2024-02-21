@@ -1152,5 +1152,10 @@
 		"name": "支付宝微信收款码二合一",
 		"url": "https://www.fly63.com/tool/alipay",
 		"type": "二维码"
+	},
+	{
+		"name": "照片转像素风格画",
+		"url": "https://www.fly63.com/tool/pixelit",
+		"type": "图片"
 	}
 ]

@@ -319,6 +319,8 @@
 
 - [像素画板工具](https://www.fly63.com/tool/pixeldraw)
 
+- [照片转像素风格画](https://www.fly63.com/tool/pixelit)
+
 ## 生活工具
 
 - [科学计算器](https://www.fly63.com/tool/jisuanqi/)

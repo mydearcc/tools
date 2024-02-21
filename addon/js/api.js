@@ -849,6 +849,11 @@ var classify = [{
         "url":"https://www.fly63.com/tool/heshui",
         "hot": 0,
 		"img": ""
+    }, {
+        "name":"照片转像素风格画",
+        "url":"https://www.fly63.com/tool/pixelit",
+        "hot": 0,
+		"img": ""
     }]
 }, {
 	"id": 9,
