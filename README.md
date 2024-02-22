@@ -397,6 +397,8 @@
 
 - [饮水量计算器_每日喝水量](https://www.fly63.com/tool/heshui)
 
+- [常用电话号码大全](https://www.fly63.com/tool/phone)
+
 ## 娱乐相关
 
 - [好玩的IOS优质App推荐](https://www.fly63.com/tool/app)
@@ -502,6 +504,10 @@
 - [汉语在线分词工具](https://www.fly63.com/tool/segmentit)
 
 - [神奇字体_怪异英文生成器](https://www.fly63.com/tool/weirdfonts)
+
+- [键盘键码keyCode对照表](https://www.fly63.com/tool/keyboardcode)
+
+- [世界各国首都中英文对照表](https://www.fly63.com/tool/shoudu)
 
 ## 第三方工具
 

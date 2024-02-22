@@ -837,7 +837,7 @@ var classify = [{
     }, {
         "name":"食物嘌呤查询_痛风及高尿酸血症饮食表",
         "url":"https://www.fly63.com/tool/purine",
-        "hot": 0,
+        "hot": 1,
 		"img": ""
     }, {
         "name":"食物营养成分查询",
@@ -853,6 +853,11 @@ var classify = [{
         "name":"照片转像素风格画",
         "url":"https://www.fly63.com/tool/pixelit",
         "hot": 0,
+		"img": ""
+    }, {
+        "name":"常用电话号码大全",
+        "url":"https://www.fly63.com/tool/phone",
+        "hot": 1,
 		"img": ""
     }]
 }, {
@@ -1186,9 +1191,19 @@ var classify = [{
 		"url": "/tool/segmentit",
 		"hot": 0,
 		"img": ""
-	},{
+	}, {
 		"name": "神奇字体_怪异英文生成器",
 		"url": "/tool/weirdfonts",
+		"hot": 0,
+		"img": ""
+	}, {
+		"name": "键盘键码keyCode对照表",
+		"url": "/tool/keyboardcode",
+		"hot": 0,
+		"img": ""
+	}, {
+		"name": "世界各国首都中英文对照表",
+		"url": "/tool/shoudu",
 		"hot": 0,
 		"img": ""
 	}]

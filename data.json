@@ -1157,5 +1157,20 @@
 		"name": "照片转像素风格画",
 		"url": "https://www.fly63.com/tool/pixelit",
 		"type": "图片"
+	},
+	{
+		"name": "键盘键码keyCode对照表",
+		"url": "https://www.fly63.com/tool/keyboardcode",
+		"type": "其他"
+	},
+	{
+		"name": "世界各国首都中英文对照表",
+		"url": "https://www.fly63.com/tool/shoudu",
+		"type": "其他"
+	},
+	{
+		"name": "常用电话号码大全",
+		"url": "https://www.fly63.com/tool/phone",
+		"type": "生活"
 	}
 ]
