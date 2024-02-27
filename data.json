@@ -1182,5 +1182,20 @@
 		"name": "抛硬币做决定",
 		"url": "https://www.fly63.com/tool/coin",
 		"type": "生活"
+	},
+	{
+		"name": "世界节日大全,阳历农历节日查询",
+		"url": "https://www.fly63.com/tool/jieri",
+		"type": "生活"
+	},
+	{
+		"name": "世界各地货币查询工具",
+		"url": "https://www.fly63.com/tool/currency",
+		"type": "其他"
+	},
+	{
+		"name": "英文金额大写转换工具",
+		"url": "https://www.fly63.com/tool/usDollarsConvert",
+		"type": "生活"
 	}
 ]

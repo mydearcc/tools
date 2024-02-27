@@ -403,6 +403,10 @@
 
 - [抛硬币做决定](https://www.fly63.com/tool/coin)
 
+- [世界节日大全,阳历农历节日查询](https://www.fly63.com/tool/jieri)
+
+- [英文金额大写转换工具](https://www.fly63.com/tool/usDollarsConvert)
+
 ## 娱乐相关
 
 - [好玩的IOS优质App推荐](https://www.fly63.com/tool/app)
@@ -512,6 +516,8 @@
 - [键盘键码keyCode对照表](https://www.fly63.com/tool/keyboardcode)
 
 - [世界各国首都中英文对照表](https://www.fly63.com/tool/shoudu)
+
+- [世界各地货币查询工具](https://www.fly63.com/tool/currency)
 
 ## 第三方工具
 

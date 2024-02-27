@@ -869,6 +869,16 @@ var classify = [{
         "url":"https://www.fly63.com/tool/coin",
         "hot": 0,
 		"img": ""
+    }, {
+        "name":"世界节日大全,阳历农历节日查询",
+        "url":"https://www.fly63.com/tool/jieri",
+        "hot": 0,
+		"img": ""
+    }, {
+        "name":"英文金额大写转换工具",
+        "url":"https://www.fly63.com/tool/usDollarsConvert",
+        "hot": 1,
+		"img": ""
     }]
 }, {
 	"id": 9,
@@ -1216,6 +1226,11 @@ var classify = [{
 		"url": "/tool/shoudu",
 		"hot": 0,
 		"img": ""
+	}, {
+		"name": "世界各地货币查询工具",
+		"url": "/tool/currency",
+		"hot": 0,
+		"img": ""
 	}]
 }, {
 	"id": 12,
@@ -1236,7 +1251,7 @@ var classify = [{
 		"hot": 0,
 		"img": ""
 	}, {
-		"name": "淘宝天猫优惠券",
+		"name": "淘宝/京东/拼多多优惠券",
 		"url": "http://tb.fly63.com",
 		"hot": 1,
 		"img": ""
