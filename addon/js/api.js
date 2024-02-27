@@ -859,6 +859,16 @@ var classify = [{
         "url":"https://www.fly63.com/tool/phone",
         "hot": 1,
 		"img": ""
+    }, {
+        "name":"番茄钟计时器_效率工具",
+        "url":"https://www.fly63.com/tool/tomato",
+        "hot": 0,
+		"img": ""
+    }, {
+        "name":"抛硬币做决定",
+        "url":"https://www.fly63.com/tool/coin",
+        "hot": 0,
+		"img": ""
     }]
 }, {
 	"id": 9,

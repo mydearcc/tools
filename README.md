@@ -399,6 +399,10 @@
 
 - [常用电话号码大全](https://www.fly63.com/tool/phone)
 
+- [番茄钟计时器_效率工具](https://www.fly63.com/tool/tomato)
+
+- [抛硬币做决定](https://www.fly63.com/tool/coin)
+
 ## 娱乐相关
 
 - [好玩的IOS优质App推荐](https://www.fly63.com/tool/app)

@@ -1172,5 +1172,15 @@
 		"name": "常用电话号码大全",
 		"url": "https://www.fly63.com/tool/phone",
 		"type": "生活"
+	},
+	{
+		"name": "番茄钟计时器_效率工具",
+		"url": "https://www.fly63.com/tool/tomato",
+		"type": "生活"
+	},
+	{
+		"name": "抛硬币做决定",
+		"url": "https://www.fly63.com/tool/coin",
+		"type": "生活"
 	}
 ]
