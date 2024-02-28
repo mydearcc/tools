@@ -519,6 +519,8 @@
 
 - [世界各地货币查询工具](https://www.fly63.com/tool/currency)
 
+- [IPv4子网查询表](https://www.fly63.com/tool/ipv4)
+
 ## 第三方工具
 
 - [网名在线生成器](https://www.qmsjmfb.com/)

@@ -1231,6 +1231,11 @@ var classify = [{
 		"url": "/tool/currency",
 		"hot": 0,
 		"img": ""
+	}, {
+		"name": "IPv4子网查询表",
+		"url": "/tool/ipv4",
+		"hot": 0,
+		"img": ""
 	}]
 }, {
 	"id": 12,

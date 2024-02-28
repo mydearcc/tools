@@ -1197,5 +1197,10 @@
 		"name": "英文金额大写转换工具",
 		"url": "https://www.fly63.com/tool/usDollarsConvert",
 		"type": "生活"
+	},
+	{
+		"name": "IPv4子网查询表",
+		"url": "https://www.fly63.com/tool/ipv4",
+		"type": "其他"
 	}
 ]
