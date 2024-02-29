@@ -4,6 +4,7 @@
 旨在打造国内专业WEB开发工具，且全完免费使用，赶快来体验吧。希望能给您带来帮助！如果觉得某一款不错，不妨安利给他人。
 
 欢迎[点赞](https://github.com/mydearcc/tools/stargazers)，[推荐](https://github.com/mydearcc/tools/issues)，[主页](https://www.fly63.com/tool/home.html)。
+愿得天下站长同仁而交之，欢迎来[交换友情链接](https://github.com/mydearcc/tools/issues/5)
 
 ## 工具浏览器扩展插件
 
