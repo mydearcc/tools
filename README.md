@@ -3,7 +3,7 @@
 
 旨在打造国内专业WEB开发工具，且全完免费使用，赶快来体验吧。希望能给您带来帮助！如果觉得某一款不错，不妨安利给他人。
 
-[点赞支持](https://github.com/mydearcc/tools/stargazers)， [工具推荐](https://github.com/mydearcc/tools/issues/1)， [友链交换](https://github.com/mydearcc/tools/issues/5)， [访问主页](https://www.fly63.com/tool/home.html)
+欢迎[点赞](https://github.com/mydearcc/tools/stargazers)， [推荐](https://github.com/mydearcc/tools/issues/1)，[主页](https://www.fly63.com/tool/home.html)
 
 ## 工具浏览器扩展插件
 
