@@ -457,6 +457,8 @@
 
 - [彩虹屁文案语录](https://www.fly63.com/php/caihongpi)
 
+- [查找不动的表情包_emoji小游戏](https://www.fly63.com/tool/lookEmojis)
+
 ## 其它工具
 
 - [在线排版工具](https://www.fly63.com/tool/paiban/)

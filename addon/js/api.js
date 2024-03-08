@@ -998,6 +998,11 @@ var classify = [{
 		"url": "/php/caihongpi",
 		"hot": 0,
 		"img": ""
+	}, {
+		"name": "查找不动的表情包",
+		"url": "/tool/lookEmojis",
+		"hot": 1,
+		"img": ""
 	}]
 }, {
 	"id": 10,

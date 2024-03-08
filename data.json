@@ -1202,5 +1202,10 @@
 		"name": "IPv4子网查询表",
 		"url": "https://www.fly63.com/tool/ipv4",
 		"type": "其他"
+	},
+	{
+		"name": "查找不动的表情包",
+		"url": "https://www.fly63.com/tool/lookEmojis",
+		"type": "娱乐"
 	}
 ]
