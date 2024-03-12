@@ -407,6 +407,8 @@
 
 - [英文金额大写转换工具](https://www.fly63.com/tool/usDollarsConvert)
 
+- [简历模板,在线制作简历](https://www.fly63.com/tool/vita)
+
 ## 娱乐相关
 
 - [好玩的IOS优质App推荐](https://www.fly63.com/tool/app)

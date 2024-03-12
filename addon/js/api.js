@@ -879,6 +879,11 @@ var classify = [{
         "url":"https://www.fly63.com/tool/usDollarsConvert",
         "hot": 1,
 		"img": ""
+    }, {
+        "name":"简历模板,在线制作简历",
+        "url":"https://www.fly63.com/tool/vita",
+        "hot": 1,
+		"img": ""
     }]
 }, {
 	"id": 9,
