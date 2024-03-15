@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
 	"name": "fly63工具箱",
-	"version": "1.4.1",
+	"version": "1.4.3",
 	"action": {
 		"default_icon": {
 			"16": "img/icon16.png",
@@ -20,5 +20,11 @@
 		"128": "img/icon128.png"
 	},
 	"author": "fly63.com",
+	"web_accessible_resources": [
+	    { 
+			"resources": ["js/main.js"],
+			"matches": ["https://www.fly63.com/*","https://api.fly63.com/*"] 
+	    }
+	],
 	"update_url": "https://clients2.google.com/service/update2/crx"
 }
