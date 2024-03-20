@@ -1212,5 +1212,10 @@
 		"name": "简历模板,在线制作简历",
 		"url": "https://www.fly63.com/tool/vita",
 		"type": "生活"
+	},
+	{
+		"name": "关键词重复词组分析工具(文本去重)",
+		"url": "https://www.fly63.com/tool/keywordParticiple",
+		"type": "站长"
 	}
 ]

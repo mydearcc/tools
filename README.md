@@ -157,6 +157,8 @@
 
 - [敏感词/违禁词检测](https://www.fly63.com/tool/textcensoring)
 
+- [关键词重复词组分析工具(文本去重)](https://www.fly63.com/tool/keywordParticiple)
+
 ## 代码相关
 
 - [Javascript或HTML在线美化，格式化](https://www.fly63.com/tool/beautify/)

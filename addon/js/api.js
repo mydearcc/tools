@@ -289,6 +289,11 @@ var classify = [{
         "url":"https://www.fly63.com/tool/textcensoring",
         "hot": 1,
 		"img": ""
+    }, {
+        "name":"关键词重复词组分析工具(文本去重)",
+        "url":"https://www.fly63.com/tool/keywordParticiple",
+        "hot": 0,
+		"img": ""
     }]
 }, {
 	"id": 4,
