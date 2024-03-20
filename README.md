@@ -3,7 +3,7 @@
 
 旨在打造国内专业WEB开发工具，且全完免费使用，赶快来体验吧。希望能给您带来帮助！如果觉得某一款不错，不妨安利给他人。
 
-github：<a href="https://mydearcc.github.io/tools" target="_blank">[](https://mydearcc.github.io/tools)</a>，欢迎<a href="https://github.com/mydearcc/tools/stargazers" target="_blank">点赞</a>，<a href="https://github.com/mydearcc/tools/issues/1" target="_blank">推荐</a>，<a href="https://www.fly63.com/tool/home.html" target="_blank">主页</a>
+github：<a href="https://mydearcc.github.io/tools" target="_blank">https://mydearcc.github.io/tools</a>，欢迎<a href="https://github.com/mydearcc/tools/stargazers" target="_blank">点赞</a>，<a href="https://github.com/mydearcc/tools/issues/1" target="_blank">推荐</a>，<a href="https://www.fly63.com/tool/home.html" target="_blank">主页</a>
 
 ## 工具浏览器扩展插件
 
@@ -117,17 +117,17 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">[](https://m
 
 <a href="https://www.fly63.com/php/mailer" target="_blank">邮件群发营销工具</a>
 
-<a href=" https://www.fly63.com/tool/clearhtm" target="_blank">在线html/js/css标签过滤工具</a>
+<a href="https://www.fly63.com/tool/clearhtm" target="_blank">在线html/js/css标签过滤工具</a>
 
-<a href=" https://www.fly63.com/php/icp" target="_blank">ICP备案查询_网站域名备案查询</a>
+<a href="https://www.fly63.com/php/icp" target="_blank">ICP备案查询_网站域名备案查询</a>
 
-<a href=" https://www.fly63.com/php/useragent" target="_blank">浏览器内核版本检测器_查看userAgent信息</a>
+<a href="https://www.fly63.com/php/useragent" target="_blank">浏览器内核版本检测器_查看userAgent信息</a>
 
-<a href=" https://www.fly63.com/tool/redirect" target="_blank">网站301转向/跳转代码生成工具</a>
+<a href="https://www.fly63.com/tool/redirect" target="_blank">网站301转向/跳转代码生成工具</a>
 
-<a href=" https://www.fly63.com/php/hotnews" target="_blank">今日热榜_实时新闻分享</a>
+<a href="https://www.fly63.com/php/hotnews" target="_blank">今日热榜_实时新闻分享</a>
 
-<a href=" https://www.fly63.com/tool/m3u8" target="_blank">m3u8视频在线提取工具</a>
+<a href="https://www.fly63.com/tool/m3u8" target="_blank">m3u8视频在线提取工具</a>
 
 <a href="https://www.fly63.com/php/wxCheck" target="_blank">微信域名拦截检测</a>
 
