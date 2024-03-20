@@ -471,7 +471,7 @@
 
 - [在线文本去重复工具](https://www.fly63.com/tool/quchong)
 
-- [文本替换工具](https://www.fly63.com/tool/textreplace/)
+- [文本符号替换工具](https://www.fly63.com/tool/textreplace/)
 
 - [常用对照表_HTTP、RGB、ASCII、TCP/UDP等](https://www.fly63.com/tool/table/)
 
