@@ -36,12 +36,17 @@ var classify = [{
 		"url": "/tool/svg2img",
 		"hot": 0,
 		"img": ""
-	}, {
-		"name": "文本替换工具",
+	},{
+		"name": "文本符号替换工具(换行，空格，逗号)",
+		"url": "/tool/quchong",
+		"hot": 0,
+		"img": ""
+	},{
+		"name": "文本在线批量替换工具",
 		"url": "/tool/textreplace",
 		"hot": 0,
 		"img": ""
-	}, {
+	},{
 		"name": "度量衡单位在线换算工具",
 		"url": "/tool/unitable",
 		"hot": 0,
@@ -1072,11 +1077,6 @@ var classify = [{
 	"id": 11,
 	"name": "其他工具",
 	"list": [{
-		"name": "在线文本去重复工具",
-		"url": "/tool/quchong",
-		"hot": 0,
-		"img": ""
-	}, {
 		"name": "ASCII码对照表",
 		"url": "/tool/ascii",
 		"hot": 0,

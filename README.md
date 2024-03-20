@@ -63,6 +63,10 @@
 
 - [SVG转PNG工具](https://www.fly63.com/tool/svg2img/)
 
+- [文本符号替换工具(换行，空格，逗号)](https://www.fly63.com/tool/quchong)
+
+- [文本在线批量替换工具](https://www.fly63.com/tool/textreplace/)
+
 - [度量衡单位在线换算工具](https://www.fly63.com/tool/unitable/)
 
 - [json转Excel/csv工具](https://www.fly63.com/tool/jsonscv/)
@@ -468,10 +472,6 @@
 - [在线排版工具](https://www.fly63.com/tool/paiban/)
 
 - [高端网站、小程序开发【推广】](https://www.fly63.com/website/)
-
-- [在线文本去重复工具](https://www.fly63.com/tool/quchong)
-
-- [文本符号替换工具](https://www.fly63.com/tool/textreplace/)
 
 - [常用对照表_HTTP、RGB、ASCII、TCP/UDP等](https://www.fly63.com/tool/table/)
 

@@ -379,14 +379,14 @@
 		"type": "转换"
 	},
 	{
-		"name": "在线文本去重复工具",
+		"name": "文本符号替换工具(换行，空格，逗号)",
 		"url": "https://www.fly63.com/tool/quchong",
-		"type": "其他"
+		"type": "转换"
 	},
 	{
-		"name": "文本符号替换工具",
+		"name": "文本在线批量替换工具",
 		"url": "https://www.fly63.com/tool/textreplace",
-		"type": "其他"
+		"type": "转换"
 	},
 	{
 		"name": "ASCII码对照表",
