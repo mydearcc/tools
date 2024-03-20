@@ -557,10 +557,20 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">https://myde
 
 ## 优惠券领取
 
-<a rel="nofollow" target="_blank" href="https://www.fly63.com/nav/2907">阿里云优惠券</a>
+<a href="https://www.fly63.com/nav/2907" target="_blank" rel="nofollow">阿里云优惠券</a>
 
-<a rel="nofollow" target="_blank" href="https://www.fly63.com/nav/2908">腾讯云优惠券</a>
+<a href="https://www.fly63.com/nav/2908" target="_blank" rel="nofollow">腾讯云优惠券</a>
 
-<a rel="nofollow" target="_blank" href="https://www.vpsor.cn?userCode=ghb575">硅云服务器/虚拟主机</a>
+<a href="https://www.vpsor.cn?userCode=ghb575" target="_blank" rel="nofollow">硅云服务器/虚拟主机</a>
 
-<a rel="nofollow" target="_blank" href="http://tb.fly63.com" style="color:#F06431">淘宝/京东/拼多多优惠券</a>
+<a href="http://tb.fly63.com" target="_blank" rel="nofollow" style="color:#F06431">淘宝/京东/拼多多优惠券</a>
+
+## 赞赏作者
+
+创作不易，你的赞赏和认可，是我更新的最大动力：
+
+![](http://hao.fly63.com/images/zf.jpg)
+
+## LICENSE
+
+本作品采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。
