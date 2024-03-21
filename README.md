@@ -8,14 +8,6 @@
 
 github：<a href="https://mydearcc.github.io/tools" target="_blank">https://mydearcc.github.io/tools</a>，欢迎<a href="https://github.com/mydearcc/tools/stargazers" target="_blank">点赞</a>，<a href="https://github.com/mydearcc/tools/issues/1" target="_blank">推荐</a>，<a href="https://www.fly63.com/tool/home.html" target="_blank">主页</a>
 
-## Repo rosters
-
-### Stargazers
-[![Stargazers repo roster for @mydearcc/tools](https://reporoster.com/stars/mydearcc/tools)](https://github.com/mydearcc/tools/stargazers)
-
-### Forkers
-[![Forkers repo roster for @mydearcc/tools](https://reporoster.com/forks/mydearcc/tools)](https://github.com/mydearcc/tools/network/members)
-
 ## 浏览器扩展插件
 
 <a href="https://chrome.google.com/webstore/detail/fly63%E5%B7%A5%E5%85%B7%E7%AE%B1/oicicpjppdafaknaepojmjpjoinimbel" target="_blank">谷歌 Chrome</a>
@@ -575,6 +567,14 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">https://myde
 <a href="https://www.vpsor.cn?userCode=ghb575" target="_blank" rel="nofollow">硅云服务器/虚拟主机</a>
 
 <a href="http://tb.fly63.com" target="_blank" rel="nofollow" style="color:#F06431">淘宝/京东/拼多多优惠券</a>
+
+## Repo rosters
+
+### Stargazers
+[![Stargazers repo roster for @mydearcc/tools](https://reporoster.com/stars/mydearcc/tools)](https://github.com/mydearcc/tools/stargazers)
+
+### Forkers
+[![Forkers repo roster for @mydearcc/tools](https://reporoster.com/forks/mydearcc/tools)](https://github.com/mydearcc/tools/network/members)
 
 ## 赞赏作者
 
