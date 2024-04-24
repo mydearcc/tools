@@ -724,7 +724,7 @@
 		"type": "图片"
 	},
 	{
-		"name": "漂亮的CSS box-shadow样式",
+		"name": "漂亮的CSS阴影 box-shadow样式",
 		"url": "https://www.fly63.com/tool/shadow",
 		"type": "样式"
 	},
@@ -1217,5 +1217,10 @@
 		"name": "关键词重复词组分析工具(文本去重)",
 		"url": "https://www.fly63.com/tool/keywordParticiple",
 		"type": "站长"
+	},
+	{
+		"name": "在线截图美化工具",
+		"url": "https://www.fly63.com/tool/shotPhoto",
+		"type": "图片"
 	}
 ]

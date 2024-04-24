@@ -302,6 +302,8 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">https://myde
 
 <a href="https://www.fly63.com/tool/pixelit" target="_blank" style="color:#F06431">Photo to Pixel Style Paint</a>
 
+<a href="https://www.fly63.com/tool/shotPhoto" target="_blank">Screenshot Beautifier</a>
+
 ## Life Tools
 
 <a href="https://www.fly63.com/tool/calendar" target="_blank">Calendar Conversion Tool</a>

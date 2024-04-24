@@ -226,7 +226,7 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">https://myde
 
 <a href="https://www.fly63.com/tool/csbtn" target="_blank">CSS按钮生成器</a>
 
-<a href="https://www.fly63.com/tool/shadow" target="_blank">漂亮的CSS box-shadow样式</a>
+<a href="https://www.fly63.com/tool/shadow" target="_blank">漂亮的CSS阴影 box-shadow样式</a>
 
 <a href="https://www.fly63.com/tool/colorMatch" target="_blank" style="color:#F06431">web颜色搭配方案/设计网页配色表</a>
 
@@ -301,6 +301,8 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">https://myde
 <a href="https://www.fly63.com/tool/pixeldraw" target="_blank">在线像素画板工具</a>
 
 <a href="https://www.fly63.com/tool/pixelit" target="_blank" style="color:#F06431">照片转像素风格画</a>
+
+<a href="https://www.fly63.com/tool/shotPhoto" target="_blank">在线截图美化工具</a>
 
 ## 生活工具
 

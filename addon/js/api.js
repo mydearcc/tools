@@ -690,6 +690,11 @@ var classify = [{
         "url":"/tool/pixeldraw",
         "hot": 0,
 		"img": ""
+    }, {
+        "name":"在线截图美化工具",
+        "url":"/tool/shotPhoto",
+        "hot": 0,
+		"img": ""
     }]
 }, {
 	"id": 8,
