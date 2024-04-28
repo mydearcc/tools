@@ -570,6 +570,12 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">https://myde
 
 <a href="http://tb.fly63.com" target="_blank" rel="nofollow" style="color:#F06431">Taobao/JD/Pinduoduo coupons</a>
 
+## Appreciate the author
+
+Creation is not easy, and your appreciation and recognition are my biggest motivation for updating：
+
+![](http://hao.fly63.com/images/zf.jpg)
+
 ## Repo rosters
 
 ### Stargazers
@@ -578,11 +584,9 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">https://myde
 ### Forkers
 [![Forkers repo roster for @mydearcc/tools](https://reporoster.com/forks/mydearcc/tools)](https://github.com/mydearcc/tools/network/members)
 
-## Appreciate the author
+## Star History
 
-Creation is not easy, and your appreciation and recognition are my biggest motivation for updating：
-
-![](http://hao.fly63.com/images/zf.jpg)
+[![Star History Chart](https://api.star-history.com/svg?repos=mydearcc/tools&type=Date)](https://star-history.com/#mydearcc/tools&Date)
 
 ## LICENSE
 
