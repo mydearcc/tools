@@ -570,6 +570,12 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">https://myde
 
 <a href="http://tb.fly63.com" target="_blank" rel="nofollow" style="color:#F06431">淘宝/京东/拼多多优惠券</a>
 
+## 赞赏作者
+
+创作不易，你的赞赏和认可，是我更新的最大动力：
+
+![](http://hao.fly63.com/images/zf.jpg)
+
 ## Repo rosters
 
 ### Stargazers
@@ -578,11 +584,9 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">https://myde
 ### Forkers
 [![Forkers repo roster for @mydearcc/tools](https://reporoster.com/forks/mydearcc/tools)](https://github.com/mydearcc/tools/network/members)
 
-## 赞赏作者
+## Star History
 
-创作不易，你的赞赏和认可，是我更新的最大动力：
-
-![](http://hao.fly63.com/images/zf.jpg)
+[![Star History Chart](https://api.star-history.com/svg?repos=mydearcc/tools&type=Date)](https://star-history.com/#mydearcc/tools&Date)
 
 ## LICENSE
 
