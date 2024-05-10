@@ -560,6 +560,10 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">https://myde
 
 <a href="https://smallpdf.com/cn/pdf-tools" target="_blank" rel="nofollow">在线PDF工具</a>
 
+<a href="https://r.xjq.icu" target="_blank" rel="nofollow">在线编写,运行代码</a>
+
+<a href="https://woc.space/" target="_blank" rel="nofollow">全球不限速大文件交付/协作平台</a>
+
 ## 优惠券领取
 
 <a href="https://www.fly63.com/nav/2907" target="_blank" rel="nofollow">阿里云优惠券</a>
