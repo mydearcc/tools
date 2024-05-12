@@ -6,7 +6,7 @@ Committed to creating and collecting a variety of simple, easy to use, convenien
 
 Designed to create a domestic professional WEB development tools, and all complete free to use, come and experience it. Hope to bring you help! If you think that a good, may wish to favor to others.
 
-github：<a href="https://mydearcc.github.io/tools" target="_blank">https://mydearcc.github.io/tools</a>，wellcome<a href="https://github.com/mydearcc/tools/stargazers" target="_blank">Star</a>，<a href="https://github.com/mydearcc/tools/issues/1" target="_blank">propose</a>，<a href="https://afdian.net/a/fly63" target="_blank">Sponsor</a>
+github：<a href="https://mydearcc.github.io/tools" target="_blank">https://mydearcc.github.io/tools</a>，wellcome:<a href="https://github.com/mydearcc/tools/stargazers" target="_blank">Star</a>，<a href="https://github.com/mydearcc/tools/issues/1" target="_blank">propose</a>，<a href="https://afdian.net/a/fly63" target="_blank">Sponsor</a>
 
 ## Browser extensions
 
