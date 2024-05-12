@@ -6,7 +6,7 @@
 
 旨在打造国内专业WEB开发工具，且全完免费使用，赶快来体验吧。希望能给您带来帮助！如果觉得某一款不错，不妨安利给他人。
 
-github：<a href="https://mydearcc.github.io/tools" target="_blank">https://mydearcc.github.io/tools</a>，欢迎<a href="https://github.com/mydearcc/tools/stargazers" target="_blank">点赞</a>，<a href="https://github.com/mydearcc/tools/issues/1" target="_blank">推荐</a>，<a href="https://www.fly63.com/tool/home.html" target="_blank">主页</a>
+github：<a href="https://mydearcc.github.io/tools" target="_blank">https://mydearcc.github.io/tools</a>，欢迎<a href="https://github.com/mydearcc/tools/stargazers" target="_blank">点赞</a>，<a href="https://github.com/mydearcc/tools/issues/1" target="_blank">推荐</a>，<a href="https://www.fly63.com/tool/home.html" target="_blank">主页</a>，<a href="https://afdian.net/a/fly63" target="_blank">赞助</a>
 
 ## 浏览器扩展插件
 
