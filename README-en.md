@@ -574,7 +574,7 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">https://myde
 
 Creation is not easy, and your appreciation and recognition are my biggest motivation for updating：
 
-![](http://hao.fly63.com/images/zf.jpg)
+![](http://hao.fly63.com/img/zf.webp)
 
 ## Repo rosters
 
