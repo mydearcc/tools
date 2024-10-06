@@ -582,7 +582,7 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">https://myde
 
 创作不易，你的赞赏和认可，是我更新的最大动力：
 
-![](http://hao.fly63.com/images/zf.jpg)
+![](http://hao.fly63.com/img/zf.webp)
 
 ## Repo rosters
 
