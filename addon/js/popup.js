@@ -107,7 +107,7 @@ function setSotreList(data){
 	sotreList.unshift(data);
 	localStorage.setItem('list',JSON.stringify(sotreList));
 }
-var _URL='https://www.fly63.com';
+var _URL='https://fly63.com';
 var classifyList=getClassify();
 function initData(){
 	var nav=getD('nav'),
