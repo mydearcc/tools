@@ -281,22 +281,22 @@ var classify = [{
 		"img": ""
 	}, {
         "name":"微信域名拦截检测",
-        "url":"https://www.fly63.com/php/wxCheck",
+        "url":"/php/wxCheck",
         "hot": 0,
 		"img": ""
     }, {
         "name":"PDF文字识别",
-        "url":"https://www.fly63.com/tool/pdfdraw",
+        "url":"/tool/pdfdraw",
         "hot": 0,
 		"img": ""
     }, {
         "name":"敏感词/违禁词检测",
-        "url":"https://www.fly63.com/tool/textcensoring",
+        "url":"/tool/textcensoring",
         "hot": 1,
 		"img": ""
     }, {
         "name":"关键词重复词组分析工具(文本去重)",
-        "url":"https://www.fly63.com/tool/keywordParticiple",
+        "url":"/tool/keywordParticiple",
         "hot": 0,
 		"img": ""
     }]
@@ -846,57 +846,57 @@ var classify = [{
 		"img": ""
 	}, {
         "name":"lrc歌词在线编辑工具",
-        "url":"https://www.fly63.com/tool/lrc_editor",
+        "url":"/tool/lrc_editor",
         "hot": 0,
 		"img": ""
     }, {
         "name":"食物嘌呤查询_痛风及高尿酸血症饮食表",
-        "url":"https://www.fly63.com/tool/purine",
+        "url":"/tool/purine",
         "hot": 1,
 		"img": ""
     }, {
         "name":"食物营养成分查询",
-        "url":"https://www.fly63.com/tool/food",
+        "url":"/tool/food",
         "hot": 0,
 		"img": ""
     }, {
         "name":"饮水量计算器_每日喝水量",
-        "url":"https://www.fly63.com/tool/heshui",
+        "url":"/tool/heshui",
         "hot": 0,
 		"img": ""
     }, {
         "name":"照片转像素风格画",
-        "url":"https://www.fly63.com/tool/pixelit",
+        "url":"/tool/pixelit",
         "hot": 0,
 		"img": ""
     }, {
         "name":"常用电话号码大全",
-        "url":"https://www.fly63.com/tool/phone",
+        "url":"/tool/phone",
         "hot": 1,
 		"img": ""
     }, {
         "name":"番茄钟计时器_效率工具",
-        "url":"https://www.fly63.com/tool/tomato",
+        "url":"/tool/tomato",
         "hot": 0,
 		"img": ""
     }, {
         "name":"抛硬币做决定",
-        "url":"https://www.fly63.com/tool/coin",
+        "url":"/tool/coin",
         "hot": 0,
 		"img": ""
     }, {
         "name":"世界节日大全,阳历农历节日查询",
-        "url":"https://www.fly63.com/tool/jieri",
+        "url":"/tool/jieri",
         "hot": 0,
 		"img": ""
     }, {
         "name":"英文金额大写转换工具",
-        "url":"https://www.fly63.com/tool/usDollarsConvert",
+        "url":"/tool/usDollarsConvert",
         "hot": 1,
 		"img": ""
     }, {
         "name":"简历模板,在线制作简历",
-        "url":"https://www.fly63.com/tool/vita",
+        "url":"/tool/vita",
         "hot": 1,
 		"img": ""
     }]
