@@ -574,7 +574,9 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">https://myde
 
 Creation is not easy, and your appreciation and recognition are my biggest motivation for updating：
 
-![](http://hao.fly63.com/img/zf.webp)
+<a href="https://afdian.com/a/fly63" target="_blank" rel="nofollow">afdian</a>
+
+<a href="http://hao.fly63.com/img/zf.webp" target="_blank" rel="nofollow">Alipay/WeChat</a>
 
 ## Repo rosters
 
