@@ -384,6 +384,12 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">https://myde
 
 <a href="https://fly63.com/tool/vita" target="_blank" style="color:#F06431">Resume templates, make a resume online</a>
 
+<a href="https://fly63.com/tool/shengxiao" target="_self">Zodiac query tool</a>
+
+<a href="https://fly63.com/tool/gezi" target="_self">Grid paper printing tool</a>
+
+<a href="https://fly63.com/tool/bmi" target="_self" class="color:#F06431">Height, Weight, BMI Calculator</a>
+
 ## Entertainment
 
 <a href="https://fly63.com/php/dujitang" target="_blank">Chicken Soup Quotes</a>
