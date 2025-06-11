@@ -386,6 +386,12 @@ github：<a href="https://mydearcc.github.io/tools" target="_blank">https://myde
 
 <a href="https://fly63.com/tool/vita" target="_blank" style="color:#F06431">简历模板,在线制作简历</a>
 
+<a href="https://fly63.com/tool/shengxiao" target="_self">生肖查询工具</a>
+
+<a href="https://fly63.com/tool/gezi" target="_self">格子纸打印工具</a>
+
+<a href="https://fly63.com/tool/bmi" target="_self" class="color:#F06431">身高体重BMI计算器</a>
+
 ## 娱乐相关
 
 <a href="https://fly63.com/php/dujitang" target="_blank">毒鸡汤语录</a>
