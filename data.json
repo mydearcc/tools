@@ -1222,5 +1222,20 @@
 		"name": "在线截图美化工具",
 		"url": "https://fly63.com/tool/shotPhoto",
 		"type": "图片"
+	},
+	{
+	  "name": "生肖查询工具",
+	  "url": "https://fly63.com/tool/shengxiao",
+	  "type": "生活"
+	},
+	{
+	  "name": "格子纸打印工具",
+	  "url": "https://fly63.com/tool/gezi",
+	  "type": "生活"
+	},
+	{
+	  "name": "身高体重BMI计算器",
+	  "url": "https://fly63.com/tool/bmi",
+	  "type": "生活"
 	}
 ]
