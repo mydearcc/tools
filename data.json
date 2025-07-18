@@ -1224,18 +1224,828 @@
 		"type": "图片"
 	},
 	{
-	  "name": "生肖查询工具",
-	  "url": "https://fly63.com/tool/shengxiao",
-	  "type": "生活"
+    "name": "生肖查询工具",
+    "url": "https://fly63.com/tool/shengxiao",
+    "type": "生活"
 	},
-	{
-	  "name": "格子纸打印工具",
-	  "url": "https://fly63.com/tool/gezi",
-	  "type": "生活"
-	},
-	{
-	  "name": "身高体重BMI计算器",
-	  "url": "https://fly63.com/tool/bmi",
-	  "type": "生活"
-	}
+  {
+    "name": "格子纸打印工具",
+    "url": "https://fly63.com/tool/gezi",
+    "type": "生活"
+  },
+  {
+    "name": "身高体重BMI计算器",
+    "url": "https://fly63.com/tool/bmi",
+    "type": "生活"
+  },
+  {
+    "name": "紫微斗数在线排盘工具",
+    "url": "https://fly63.com/tool/ziwei",
+    "type": "生活"
+  },
+  {
+    "name": "大转盘做决定",
+    "url": "https://fly63.com/tool/dazhuanpan",
+    "type": "娱乐"
+  },
+  {
+    "name": "在线万年历查询",
+    "url": "https://fly63.com/tool/wannianli",
+    "type": "生活"
+  },
+  {
+    "name": "在线生成网址桌面快捷方式",
+    "url": "https://fly63.com/tool/shortcut",
+    "type": "站长"
+  },
+  {
+    "name": "在线冥想减压助眠工具",
+    "url": "https://fly63.com/tool/mingxiang",
+    "type": "生活"
+  },
+  {
+    "name": "塔罗牌牌意解析大全",
+    "url": "https://fly63.com/tool/taluo",
+    "type": "娱乐"
+  },
+  {
+    "name": "人生模拟器：无限重开之旅",
+    "url": "https://fly63.com/tool/rsckmnq",
+    "type": "娱乐"
+  },
+  {
+    "name": "淘宝优惠券查询工具",
+    "url": "https://fly63.com/php/tbyhq",
+    "type": "生活"
+  },
+  {
+    "name": "尺子在线测量工具",
+    "url": "https://fly63.com/tool/chizi",
+    "type": "生活"
+  },
+  {
+    "name": "在线时钟_模拟钟表",
+    "url": "https://fly63.com/tool/shizhong",
+    "type": "生活"
+  },
+  {
+  	"name": "在线屏幕测试工具",
+  	"url": "https://fly63.com/tool/screentest",
+  	"type": "其他"
+  },
+  {
+  	"name": "WebSocket在线测试工具",
+  	"url": "https://fly63.com/tool/websocket",
+  	"type": "代码"
+  },
+  {
+    "name": "在线舒尔特方格注意力测试",
+    "url": "https://fly63.com/tool/shulte",
+    "type": "娱乐"
+  },
+  {
+  	"name": "Punycode编码解码工具",
+  	"url": "https://fly63.com/tool/punycode",
+  	"type": "加解密"
+  },
+  {
+  	"name": "ASCII码在线转换器",
+  	"url": "https://fly63.com/tool/asciiConvert",
+  	"type": "转换"
+  },
+  {
+  	"name": "代码注释清理工具",
+  	"url": "https://fly63.com/tool/removeNote",
+  	"type": "代码"
+  },
+  {
+  	"name": "aaEncode加密解密工具",
+  	"url": "https://fly63.com/tool/aaEncode",
+  	"type": "加解密"
+  },
+  {
+  	"name": "XML格式化解析工具",
+  	"url": "https://fly63.com/tool/xml",
+  	"type": "代码"
+  },
+  {
+  	"name": "URL地址参数解析工具",
+  	"url": "https://fly63.com/tool/urlAnal",
+  	"type": "代码"
+  },
+  {
+  	"name": "浏览器设备信息查询工具",
+  	"url": "https://fly63.com/tool/browserInfo",
+  	"type": "站长"
+  },
+  {
+  	"name": "2FA验证码管理工具",
+  	"url": "https://fly63.com/tool/2fa",
+  	"type": "加解密"
+  },
+  {
+  	"name": "Base32加密解密工具",
+  	"url": "https://fly63.com/tool/base32",
+  	"type": "加解密"
+  },
+  {
+  	"name": "md2 hash在线加密工具",
+  	"url": "https://fly63.com/tool/md2",
+  	"type": "加解密"
+  },
+  {
+  	"name": "Gzip加密解密_文本数据在线压缩工具",
+  	"url": "https://fly63.com/tool/gzip",
+  	"type": "加解密"
+  },
+  {
+  	"name": "htpasswd在线生成工具",
+  	"url": "https://fly63.com/tool/htpasswd",
+  	"type": "加解密"
+  },
+  {
+    "name": "锅碗瓢盆乐器在线模拟器",
+    "url": "https://fly63.com/tool/drums",
+    "type": "娱乐"
+  },
+  {
+    "name": "睡眠周期计算器",
+    "url": "https://fly63.com/tool/sleep",
+    "type": "生活"
+  },
+  {
+  	"name": "在线Shake加密工具",
+  	"url": "https://fly63.com/tool/shake",
+  	"type": "加解密"
+  },
+  {
+  	"name": "在线Keccak加密工具",
+  	"url": "https://fly63.com/tool/keccak",
+  	"type": "加解密"
+  },
+  {
+  	"name": "base64还原成文件(解码显示)",
+  	"url": "https://fly63.com/tool/base64Revert",
+  	"type": "加解密"
+  },
+  {
+    "name": "在线退休年龄计算器",
+    "url": "https://fly63.com/tool/retireAge",
+    "type": "生活"
+  },
+  {
+  	"name": "CSS长度单位转换工具",
+  	"url": "https://fly63.com/tool/unitConvert",
+  	"type": "样式"
+  },
+  {
+  	"name": "在线卡密批量生成器",
+  	"url": "https://fly63.com/tool/cardPass",
+  	"type": "加解密"
+  },
+  {
+    "name": "1a2b猜数字游戏(思维挑战)",
+    "url": "https://fly63.com/tool/1a2b",
+    "type": "娱乐"
+  },
+  {
+    "name": "数字华容道在线玩",
+    "url": "https://fly63.com/tool/n-puzzle",
+    "type": "娱乐"
+  },
+  {
+    "name": "在线模拟扔骰子游戏",
+    "url": "https://fly63.com/tool/dice",
+    "type": "娱乐"
+  },
+  {
+  	"name": "在线RC4加密解密工具",
+  	"url": "https://fly63.com/tool/rc4",
+  	"type": "加解密"
+  },
+  {
+  	"name": "在线MySQL生成JavaBean实体类",
+  	"url": "https://fly63.com/tool/mysqlToJava",
+  	"type": "转换"
+  },
+  {
+  	"name": "SQLite数据库查看器",
+  	"url": "https://fly63.com/tool/sqlite",
+  	"type": "代码"
+  },
+  {
+  	"name": "在线文本提取工具",
+  	"url": "https://fly63.com/tool/textExtract",
+  	"type": "站长"
+  },
+  {
+  	"name": "文本字符串长度计算工具",
+  	"url": "https://fly63.com/stringlength",
+  	"type": "其他"
+  },
+  {
+  	"name": "在线JSON5格式化校验工具",
+  	"url": "https://fly63.com/tool/json5",
+  	"type": "代码"
+  },
+  {
+  	"name": "yaml文件编辑器(格式化校验)",
+  	"url": "https://fly63.com/tool/yaml",
+  	"type": "代码"
+  },
+  {
+  	"name": "在线XBM点阵图像编辑器",
+  	"url": "https://fly63.com/tool/xbm",
+  	"type": "图片"
+  },
+  {
+  	"name": "文字竖排编辑工具",
+  	"url": "https://fly63.com/textVertical",
+  	"type": "其他"
+  },
+  {
+  	"name": "将excel文件转换成json数据",
+  	"url": "https://fly63.com/tool/exceltoJson",
+  	"type": "转换"
+  },
+  {
+  	"name": "在线文件hash计算工具",
+  	"url": "https://fly63.com/tool/filehash",
+  	"type": "加解密"
+  },
+  {
+  	"name": "将文件转换为base64数据格式",
+  	"url": "https://fly63.com/tool/fileBase64",
+  	"type": "转换"
+  },
+  {
+  	"name": "在线原码/反码/补码计算器",
+  	"url": "https://fly63.com/tool/numCode",
+  	"type": "转换"
+  },
+  {
+  	"name": "在线字体提取器(字体库裁剪压缩工具)",
+  	"url": "https://fly63.com/tool/fontSubset",
+  	"type": "站长"
+  },
+  {
+  	"name": "hmac算法计算加密工具",
+  	"url": "https://fly63.com/tool/hmac",
+  	"type": "加解密"
+  },
+  {
+  	"name": "rsa密钥生成与签名验证工具",
+  	"url": "https://fly63.com/tool/rsakey",
+  	"type": "加解密"
+  },
+  {
+  	"name": "crc循环冗余校验在线计算工具",
+  	"url": "https://fly63.com/tool/crc",
+  	"type": "加解密"
+  },
+  {
+  	"name": "在线凯撒密码加密解密工具",
+  	"url": "https://fly63.com/tool/caesarCipher",
+  	"type": "加解密"
+  },
+  {
+  	"name": "在线linux chmod权限生成器",
+  	"url": "https://fly63.com/tool/chmod",
+  	"type": "加解密"
+  },
+  {
+  	"name": "http状态码在线查询",
+  	"url": "https://fly63.com/tool/httpCode",
+  	"type": "代码"
+  },
+  {
+  	"name": "常用端口及协议查询工具",
+  	"url": "https://fly63.com/tool/port",
+  	"type": "代码"
+  },
+  {
+  	"name": "IPv6地址压缩与展开工具",
+  	"url": "https://fly63.com/tool/ipv6Compress",
+  	"type": "站长"
+  },
+  {
+  	"name": "图片镜像翻转在线工具",
+  	"url": "https://fly63.com/tool/imgFlip",
+  	"type": "图片"
+  },
+  {
+  	"name": "图片批量旋转工具",
+  	"url": "https://fly63.com/tool/imgRotate",
+  	"type": "图片"
+  },
+  {
+  	"name": "IPv4/IPv6地址范围在线计算器",
+  	"url": "https://fly63.com/ipvCidr",
+  	"type": "其他"
+  },
+  {
+  	"name": "常见的MIME类型列表大全",
+  	"url": "https://fly63.com/mime",
+  	"type": "其他"
+  },
+  {
+  	"name": "折线图在线制作(曲线图生成器)",
+  	"url": "https://fly63.com/tool/chartLine",
+  	"type": "生活"
+  },
+  {
+  	"name": "柱状图在线制作(柱状图生成器)",
+  	"url": "https://fly63.com/tool/chartBar",
+  	"type": "生活"
+  },
+  {
+  	"name": "阶乘在线计算器(支持大数阶乘计算)",
+  	"url": "https://fly63.com/tool/factorial",
+  	"type": "其他"
+  },
+  {
+  	"name": "斐波那契数列计算器(斐波那契函数公式算法)",
+  	"url": "https://fly63.com/tool/fibonacci",
+  	"type": "其他"
+  },
+  {
+  	"name": "数学因式分解计算器(判断合数和质数)",
+  	"url": "https://fly63.com/tool/factorization",
+  	"type": "其他"
+  },
+  {
+  	"name": "分数计算器在线使用(通分/大小比较/约分/转小数)",
+  	"url": "https://fly63.com/tool/fraction",
+  	"type": "其他"
+  },
+  {
+  	"name": "饼状图在线制作(饼状图生成器)",
+  	"url": "https://fly63.com/tool/chartPie",
+  	"type": "生活"
+  },
+  {
+  	"name": "在线函数绘图工具:数学公式绘制图表",
+  	"url": "https://fly63.com/tool/mathFormula",
+  	"type": "其他"
+  },
+  {
+  	"name": "树形图制作工具(树形图生成器)",
+  	"url": "https://fly63.com/tool/chartTree",
+  	"type": "生活"
+  },
+  {
+  	"name": "文字生成图片在线制作",
+  	"url": "https://fly63.com/tool/textToImg",
+  	"type": "图片"
+  },
+  {
+  	"name": "在线免费修改图片dpi工具",
+  	"url": "https://fly63.com/tool/imgDpi",
+  	"type": "图片"
+  },
+  {
+  	"name": "地图经纬度查询定位工具",
+  	"url": "https://fly63.com/tool/position",
+  	"type": "生活"
+  },
+  {
+  	"name": "在线经纬度和度分秒转换器",
+  	"url": "https://fly63.com/tool/degreeConvert",
+  	"type": "生活"
+  },
+  {
+  	"name": "把彩色的图片变成黑白(图片转灰度图)",
+  	"url": "https://fly63.com/tool/imgGray",
+  	"type": "图片"
+  },
+  {
+  	"name": "图片在线合成拼接器(多张照片拼成一张图)",
+  	"url": "https://fly63.com/tool/imgStitching",
+  	"type": "图片"
+  },
+  {
+  	"name": "在线面积计算器(面积计算公式大全)",
+  	"url": "https://fly63.com/tool/area",
+  	"type": "其他"
+  },
+  {
+  	"name": "随机ip地址生成器(支持IPv4/IPv6地址生成)",
+  	"url": "https://fly63.com/tool/randomIp",
+  	"type": "其他"
+  },
+  {
+  	"name": "桑基图在线绘制生成工具(桑基图生成器)",
+  	"url": "https://fly63.com/tool/chartSankey",
+  	"type": "生活"
+  },
+  {
+  	"name": "雷达图在线绘制工具(雷达图生成器)",
+  	"url": "https://fly63.com/tool/chartRadar",
+  	"type": "生活"
+  },
+  {
+  	"name": "文件在线解压工具(ZIP/RAR/7Z/TAR格式)",
+  	"url": "https://fly63.com/tool/unzip",
+  	"type": "生活"
+  },
+  {
+    "name": "赛博抽烟模拟器(虚拟吸烟网页版)",
+    "url": "https://fly63.com/tool/smoke",
+    "type": "娱乐"
+  },
+  {
+  	"name": "在线文件解压网站(zip压缩工具)",
+  	"url": "https://fly63.com/tool/zip",
+  	"type": "生活"
+  },
+  {
+  	"name": "算术平均数计算器(在线计算平均值)",
+  	"url": "https://fly63.com/tool/avg",
+  	"type": "其他"
+  },
+  {
+  	"name": "次方和开方计算器(n次方根)",
+  	"url": "https://fly63.com/tool/squarePower",
+  	"type": "其他"
+  },
+  {
+  	"name": "地图坐标投影计算工具",
+  	"url": "https://fly63.com/tool/projection",
+  	"type": "其他"
+  },
+  {
+  	"name": "文件分割器(日志切割/文件拆分工具)",
+  	"url": "https://fly63.com/tool/fileSplit",
+  	"type": "站长"
+  },
+  {
+  	"name": "在线图片转pdf转换器",
+  	"url": "https://fly63.com/tool/image-to-pdf",
+  	"type": "转换"
+  },
+  {
+  	"name": "PCM音频文件转MP3格式转换器",
+  	"url": "https://fly63.com/tool/pcm-mp3",
+  	"type": "转换"
+  },
+  {
+  	"name": "PCM/MP3/WAV音频文件播放器工具",
+  	"url": "https://fly63.com/tool/wave-player",
+  	"type": "其他"
+  },
+  {
+  	"name": "在线周长计算器(周长公式表大全)",
+  	"url": "https://fly63.com/tool/perimeter-calculator",
+  	"type": "其他"
+  },
+  {
+    "name": "迷宫生成器网页版(在线迷宫游戏)",
+    "url": "https://fly63.com/tool/maze",
+    "type": "娱乐"
+  },
+  {
+  	"name": "TeX/LaTeX数学公式转图片下载",
+  	"url": "https://fly63.com/tool/latex_img",
+  	"type": "其他"
+  },
+  {
+  	"name": "字符串编码格式转换查询工具",
+  	"url": "https://fly63.com/tool/char-encode",
+  	"type": "转换"
+  },
+  {
+  	"name": "散点图在线绘制工具(散点图生成器)",
+  	"url": "https://fly63.com/tool/chartScatter",
+  	"type": "生活"
+  },
+  {
+  	"name": "旭日图在线绘制工具(旭日图生成器)",
+  	"url": "https://fly63.com/tool/chartSunburst",
+  	"type": "生活"
+  },
+  {
+  	"name": "对数计算器在线使用(log对数/自然对数)",
+  	"url": "https://fly63.com/tool/logarithm-calculator",
+  	"type": "其他"
+  },
+  {
+    "name": "电子木鱼网页版(敲木鱼模拟器)",
+    "url": "https://fly63.com/tool/muyu",
+    "type": "娱乐"
+  },
+  {
+    "name": "放屁声音模拟器(放屁整蛊音效)",
+    "url": "https://fly63.com/tool/fangpi",
+    "type": "娱乐"
+  },
+  {
+  	"name": "物理mac地址生成器网页版",
+  	"url": "https://fly63.com/tool/mac-generate",
+  	"type": "站长"
+  },
+  {
+  	"name": "在线体积计算器(各种几何体的体积公式)",
+  	"url": "https://fly63.com/tool/volume",
+  	"type": "其他"
+  },
+  {
+  	"name": "表面积计算器在线(表面积计算公式)",
+  	"url": "https://fly63.com/tool/area-surface",
+  	"type": "其他"
+  },
+  {
+  	"name": "在线点名器网页版(随机点名系统)",
+  	"url": "https://fly63.com/tool/rollcall",
+  	"type": "生活"
+  },
+  {
+  	"name": "电子签名一键生成器",
+  	"url": "https://fly63.com/tool/qianming",
+  	"type": "生活"
+  },
+  {
+  	"name": "文件夹目录树生成工具",
+  	"url": "https://fly63.com/tool/folder_tree",
+  	"type": "代码"
+  },
+  {
+  	"name": "jwt公钥解密工具(jwt在线解码)",
+  	"url": "https://fly63.com/tool/jwt",
+  	"type": "加解密"
+  },
+  {
+  	"name": "国密SM2加密解密算法工具",
+  	"url": "https://fly63.com/tool/sm2",
+  	"type": "加解密"
+  },
+  {
+  	"name": "rabbit加密解密工具",
+  	"url": "https://fly63.com/tool/rabbit",
+  	"type": "加解密"
+  },
+  {
+  	"name": "电话号码上标下标生成器",
+  	"url": "https://fly63.com/tool/telbiao",
+  	"type": "生活"
+  },
+  {
+  	"name": "汉字笔画笔顺在线查询",
+  	"url": "https://fly63.com/tool/bihua",
+  	"type": "其他"
+  },
+  {
+  	"name": "字符串全角半角转换器",
+  	"url": "https://fly63.com/tool/fullhalf",
+  	"type": "转换"
+  },
+  {
+  	"name": "汉字转五笔码在线转换",
+  	"url": "https://fly63.com/tool/wubi",
+  	"type": "转换"
+  },
+  {
+  	"name": "gif图片在线制作生成器",
+  	"url": "https://fly63.com/tool/gifmake",
+  	"type": "图片"
+  },
+  {
+  	"name": "照片信息查看器(图片exif在线查询)",
+  	"url": "https://fly63.com/tool/imgexif",
+  	"type": "图片"
+  },
+  {
+  	"name": "万能视频格式转换器",
+  	"url": "https://fly63.com/tool/video_convert",
+  	"type": "转换"
+  },
+  {
+  	"name": "孩子身高预测计算器(父母身高遗传公式)",
+  	"url": "https://fly63.com/tool/childheight",
+  	"type": "生活"
+  },
+  {
+  	"name": "中国历史朝代一览表",
+  	"url": "https://fly63.com/tool/chaodai",
+  	"type": "其他"
+  },
+  {
+  	"name": "小学数学题目自动生成器",
+  	"url": "https://fly63.com/tool/shuxueti",
+  	"type": "其他"
+  },
+  {
+  	"name": "拼音字母表读音完整版",
+  	"url": "https://fly63.com/tool/zimu",
+  	"type": "其他"
+  },
+  {
+  	"name": "网站源代码在线查询工具",
+  	"url": "https://fly63.com/tool/view_source",
+  	"type": "站长"
+  },
+  {
+  	"name": "在线聚合翻译工具",
+  	"url": "https://fly63.com/tool/translate",
+  	"type": "生活"
+  },
+  {
+  	"name": "adb常用命令及用法大全",
+  	"url": "https://fly63.com/tool/adb",
+  	"type": "代码"
+  },
+  {
+  	"name": "在线女性安全期计算查询",
+  	"url": "https://fly63.com/tool/calcday",
+  	"type": "生活"
+  },
+  {
+  	"name": "双色球机选彩票工具(选号模拟器)",
+  	"url": "https://fly63.com/tool/caipiao",
+  	"type": "娱乐"
+  },
+  {
+  	"name": "国密SM4在线加密/解密工具",
+  	"url": "https://fly63.com/tool/sm4",
+  	"type": "加解密"
+  },
+  {
+  	"name": "在线记分板工具(比赛记分牌)",
+  	"url": "https://fly63.com/tool/jifenban",
+  	"type": "其他"
+  },
+  {
+  	"name": "TripleDES/3DES在线加密解密工具",
+  	"url": "https://fly63.com/tool/tripledes",
+  	"type": "加解密"
+  },
+  {
+  	"name": "经典俄罗斯方块在线玩",
+  	"url": "https://fly63.com/tool/game_els",
+  	"type": "娱乐"
+  },
+  {
+  	"name": "2048游戏经典网页版(数字消除合成)",
+  	"url": "https://fly63.com/tool/game_2048",
+  	"type": "娱乐"
+  },
+  {
+  	"name": "ripemd160哈希算法加密工具",
+  	"url": "https://fly63.com/tool/ripemd160",
+  	"type": "加解密"
+  },
+  {
+  	"name": "Mermaid流程图在线制作编辑器",
+  	"url": "https://fly63.com/tool/mermaid",
+  	"type": "图片"
+  },
+  {
+  	"name": "hex/base64/字符在线互转工具",
+  	"url": "https://fly63.com/tool/base64_hex",
+  	"type": "转换"
+  },
+  {
+  	"name": "阿拉伯数字与罗马数字转换器",
+  	"url": "https://fly63.com/tool/num_roman",
+  	"type": "转换"
+  },
+  {
+  	"name": "生辰八字转换查询工具",
+  	"url": "https://fly63.com/tool/bazi",
+  	"type": "转换"
+  },
+  {
+  	"name": "六十甲子年对照表(五行金木水火土查询表)",
+  	"url": "https://fly63.com/tool/jiazitable",
+  	"type": "其他"
+  },
+  {
+  	"name": "男女星座匹配度查询工具(娱乐版)",
+  	"url": "https://fly63.com/tool/xingzuo",
+  	"type": "娱乐"
+  },
+  {
+  	"name": "CSS三角边框气泡生成器(箭头对话框样式)",
+  	"url": "https://fly63.com/tool/bubble",
+  	"type": "样式"
+  },
+  {
+  	"name": "CSS文字阴影效果代码生成器(text-shadow样式)",
+  	"url": "https://fly63.com/tool/text_shadow",
+  	"type": "样式"
+  },
+  {
+  	"name": "div元素阴影效果生成器(box-shadow样式)",
+  	"url": "https://fly63.com/tool/div_shadow",
+  	"type": "样式"
+  },
+  {
+  	"name": "国家语言代码对照表查询工具(语言简写代码大全)",
+  	"url": "https://fly63.com/tool/langcodes",
+  	"type": "代码"
+  },
+  {
+  	"name": "Shield Badge盾牌徽章生成器",
+  	"url": "https://fly63.com/tool/shieldbadge",
+  	"type": "样式"
+  },
+  {
+  	"name": "php常用函数参考手册查询工具",
+  	"url": "https://fly63.com/tool/phpfun",
+  	"type": "代码"
+  },
+  {
+  	"name": "图片转换svg格式在线生成器",
+  	"url": "https://fly63.com/tool/imgtosvg",
+  	"type": "图片"
+  },
+  {
+  	"name": "色彩中间色计算工具(过渡色获取器)",
+  	"url": "https://fly63.com/tool/color_middle",
+  	"type": "样式"
+  },
+  {
+  	"name": "色彩工具箱(颜色混合/匹配度/相反值/颜色拾取)",
+  	"url": "https://fly63.com/tool/color_tool",
+  	"type": "样式"
+  },
+  {
+  	"name": "姓名排序工具在线使用",
+  	"url": "https://fly63.com/tool/name_sort",
+  	"type": "生活"
+  },
+  {
+  	"name": "汉字笔画数在线查询",
+  	"url": "https://fly63.com/tool/bihua_hanzi",
+  	"type": "其他"
+  },
+  {
+  	"name": "屏幕PPI在线计算器",
+  	"url": "https://fly63.com/tool/ppi",
+  	"type": "其他"
+  },
+  {
+  	"name": "文本与二进制转换工具",
+  	"url": "https://fly63.com/tool/text_binary",
+  	"type": "转换"
+  },
+  {
+  	"name": "文件md5值计算工具",
+  	"url": "https://fly63.com/tool/file_md5",
+  	"type": "其他"
+  },
+  {
+  	"name": "bcc校验码计算工具(异或校验)",
+  	"url": "https://fly63.com/tool/bcc",
+  	"type": "转换"
+  },
+  {
+  	"name": "按揭贷款利息计算器",
+  	"url": "https://fly63.com/tool/daikuan",
+  	"type": "生活"
+  },
+  {
+  	"name": "存款收益计算器(定期/活期/存本取息/通知存款)",
+  	"url": "https://fly63.com/tool/cunkuan",
+  	"type": "生活"
+  },
+  {
+  	"name": "ppt常用快捷键大全表格查询",
+  	"url": "https://fly63.com/tool/shortcut_ppt",
+  	"type": "其他"
+  },
+  {
+  	"name": "ps常用快捷键大全",
+  	"url": "https://fly63.com/tool/shortcut_ps",
+  	"type": "其他"
+  },
+  {
+  	"name": "贪吃蛇单机网页版在线玩",
+  	"url": "https://fly63.com/tool/snake",
+  	"type": "娱乐"
+  },
+  {
+  	"name": "反应速度测试工具(训练反应能力)",
+  	"url": "https://fly63.com/tool/fanying",
+  	"type": "娱乐"
+  },
+  {
+  	"name": "Cps手速测试器网页版(鼠标点击速度挑战)",
+  	"url": "https://fly63.com/tool/checkcps",
+  	"type": "娱乐"
+  },
+  {
+  	"name": "角度单位换算器(度分秒计算器)",
+  	"url": "https://fly63.com/tool/angle",
+  	"type": "其他"
+  },
+  {
+  	"name": "vscode快捷键查询工具",
+  	"url": "https://fly63.com/tool/shortcut_vscode",
+  	"type": "代码"
+  },
+  {
+  	"name": "excel快捷键大全完整版",
+  	"url": "https://fly63.com/tool/shortcut_excel",
+  	"type": "其他"
+  }
 ]
