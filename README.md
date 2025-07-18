@@ -906,7 +906,7 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="https://www.vpsor.cn?userCode=ghb575"   target="_blank" rel="nofollow">硅云服务器/虚拟主机</a>
 
-<a href="http://tb.fly63.com"   target="_blank" rel="nofollow">淘宝/京东/拼多多优惠券</a>
+<a href="http://tb.fly63.com"   target="_blank" rel="nofollow">淘宝天猫优惠券</a>
 
 ## 赞赏作者
 
@@ -915,14 +915,6 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 方式一：<a href="https://afdian.com/a/fly63"   target="_blank" rel="nofollow">爱发电</a>
 
 方式二：<a href="http://hao.fly63.com/img/zf.webp"   target="_blank" rel="nofollow">支付宝/微信</a>
-
-## Repo rosters
-
-### Stargazers
-[![Stargazers repo roster for @mydearcc/tools](https://reporoster.com/stars/mydearcc/tools)](https://github.com/mydearcc/tools/stargazers)
-
-### Forkers
-[![Forkers repo roster for @mydearcc/tools](https://reporoster.com/forks/mydearcc/tools)](https://github.com/mydearcc/tools/network/members)
 
 ## Star History
 
