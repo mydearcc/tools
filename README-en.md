@@ -862,21 +862,15 @@ GitHub: <a href="https://mydearcc.github.io/tools" target="_blank">https://mydea
 
 ## Third-Party Tools
 
+<a href="https://fly63.com/tool/other.html?u=jiumodiary" target="_blank" rel="nofollow">Jiumo Book Search_E-book Search Engine</a>
+
 <a href="https://fly63.com/tool/other.html?u=qmsjmfb" target="_blank" rel="nofollow">Online Nickname Generator</a>
-
-<a href="https://fly63.com/tool/other.html?u=learner" target="_blank" rel="nofollow">Online Typing to Memorize Words</a>
-
-<a href="https://fly63.com/tool/other.html?u=buttons" target="_blank" rel="nofollow">Creative Button CSS Styles</a>
-
-<a href="https://fly63.com/tool/other.html?u=jiumodiary" target="_blank" rel="nofollow">Jiumo Book Search_E-Book Search Engine</a>
-
-<a href="https://fly63.com/tool/other.html?u=coderunner" target="_blank" rel="nofollow">Online Code Execution</a>
 
 <a href="https://fly63.com/tool/other.html?u=runoob" target="_blank" rel="nofollow">Rookie Online Compilation Tool</a>
 
 <a href="https://fly63.com/tool/other.html?u=converter" target="_blank" rel="nofollow">Multimedia File Converter</a>
 
-<a href="https://fly63.com/tool/other.html?u=photopea" target="_blank" rel="nofollow">Online Image Editing PS Lite Version</a>
+<a href="https://fly63.com/tool/other.html?u=photopea" target="_blank" rel="nofollow">Online Image Editor PS Lite Version</a>
 
 <a href="https://fly63.com/tool/other.html?u=fabiaoqing" target="_blank" rel="nofollow">Emoji Online Website</a>
 
