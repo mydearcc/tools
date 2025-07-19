@@ -862,15 +862,9 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 ## 第三方工具
 
-<a href="https://fly63.com/tool/other.html?u=qmsjmfb"   target="_blank" rel="nofollow">网名在线生成器</a>
-
-<a href="https://fly63.com/tool/other.html?u=learner"   target="_blank" rel="nofollow">在线打字记忆单词</a>
-
-<a href="https://fly63.com/tool/other.html?u=buttons"   target="_blank" rel="nofollow">创意的按钮CSS样式</a>
-
 <a href="https://fly63.com/tool/other.html?u=jiumodiary"   target="_blank" rel="nofollow">鸠摩搜书_电子书搜索引擎</a>
 
-<a href="https://fly63.com/tool/other.html?u=coderunner"   target="_blank" rel="nofollow">在线运行代码</a>
+<a href="/tool/other.html?u=qmsjmfb" target="_blank" rel="nofollow">网名在线生成器</a>
 
 <a href="https://fly63.com/tool/other.html?u=runoob"   target="_blank" rel="nofollow">菜鸟在线编译工具</a>
 
