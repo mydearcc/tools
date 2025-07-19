@@ -864,7 +864,7 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="https://fly63.com/tool/other.html?u=jiumodiary"   target="_blank" rel="nofollow">鸠摩搜书_电子书搜索引擎</a>
 
-<a href="/tool/other.html?u=qmsjmfb" target="_blank" rel="nofollow">网名在线生成器</a>
+<a href="https://fly63.com/tool/other.html?u=qmsjmfb" target="_blank" rel="nofollow">网名在线生成器</a>
 
 <a href="https://fly63.com/tool/other.html?u=runoob"   target="_blank" rel="nofollow">菜鸟在线编译工具</a>
 
