@@ -1,14 +1,47 @@
-# 最全在线工具箱集合
+# 🛠️ fly63 在线工具箱 - 免费、极简、高效的开发者工具集合
 
-[README in English](README-en.md)
+> **🌟 立即访问主站： [https://fly63.com](https://fly63.com/tool/home.html)**
 
-致力于打造和收集各种简单、易用、便捷的在线工具，无需注册和下载即可免费使用，目前共开发了数百款有趣且有用的小功能，数量还在持续增加中，部分来源于开源项目。工具主要包括:程序员在线文档、在线转换、加密解密、站长工具、代码开发、Css样式、文本工具、二维码处理、图片处理、生活办公、娱乐工具等等。
+**fly63 在线工具箱** 是一个完全**免费**、界面**极简**、功能**高效**、使用**便捷**的在线工具集合网站。无需注册，即开即用！专为提升开发、设计、运维和内容创作效率而打造。
 
-旨在打造国内专业WEB开发工具，且全完免费使用，赶快来体验吧。希望能给您带来帮助！如果觉得某一款不错，不妨安利给他人。
+**👨‍💻 目标用户：** 程序员、站长、设计师、网络营销人员、自媒体从业者等IT专业人士。
 
-github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://mydearcc.github.io/tools</a>，欢迎<a href="https://github.com/mydearcc/tools/stargazers"   target="_blank">点赞</a>，<a href="https://github.com/mydearcc/tools/issues/1"   target="_blank">推荐</a>，<a href="https://fly63.com/article/detial/10239"   target="_blank">赞助</a>
+## 🔍 主要功能与工具类别
 
-## 浏览器扩展插件
+我们提供丰富多样的在线工具，涵盖以下核心类别：
+
+*   **📚 开发文档：** 快速查询 HTML, CSS, JavaScript 等常用开发语言的语法和参考。
+*   **🔄 格式转换：** JSON <> XML, JSON <> YAML, CSV <> JSON, 图片格式转换 (JPG/PNG/WebP等)。
+*   **🔐 加密/解密：** MD5, SHA1, SHA256, SHA512, AES, DES, Base64 编码/解码等。
+*   **🛠️ 站长工具：** IP查询、Whois查询、Ping检测、HTTP Header 查看、机器人协议生成等。
+*   **💻 代码生成：** HTML/CSS/JS 片段生成、正则表达式测试、二维码生成等。
+*   **🎨 Css样式：** CSS美化/压缩、Less/Sass 编译、颜色格式转换、渐变生成器等。
+*   **📝 JSON工具：** JSON 格式化、JSON 压缩、JSON 验证、JSON 转 Excel/CSV 等。
+*   **📱 二维码：** 文本、网址、联系方式等生成二维码，支持自定义颜色和 Logo。
+*   **🖼️ 图片处理：** 图片压缩、裁剪、缩放、格式转换、加水印、EXIF 信息读取等。
+*   **🎮 生活娱乐：** 随机数生成、密码生成、单位换算、汉字转拼音等。
+*   **✂️ 文字处理：** 文本对比、行数统计、大小写转换、繁简体转换、Markdown 预览等。
+
+> **✨ 特色亮点：**
+> *   **完全免费：** 所有工具无需登录注册，免费使用。
+> *   **极简设计：** 界面清爽，专注核心功能。
+> *   **高效便捷：** 无需安装，打开即用，处理速度快。
+> *   **持续更新：** 工具库不断扩充和完善。
+>
+> **[立即体验所有工具 ➡️ https://mydearcc.github.io/tools](https://mydearcc.github.io/tools)**
+
+## 如何使用
+1.  访问主站 [https://fly63.com](https://fly63.com/tool/home.html)。
+2.  在导航栏或搜索框找到您需要的工具。
+3.  输入内容，工具将**即时处理**并显示结果。
+4.  复制或下载结果即可！简单高效。
+
+**👍 觉得好用？ 欢迎给个 ⭐ Star 支持！您的认可是我们持续更新的动力！**
+**🐛 发现问题或有建议？ 欢迎 [提交 Issue](https://github.com/mydearcc/tools/issues)。**
+
+## 快捷入口
+
+### 浏览器扩展插件
 
 <a href="https://chrome.google.com/webstore/detail/fly63%E5%B7%A5%E5%85%B7%E7%AE%B1/oicicpjppdafaknaepojmjpjoinimbel"   target="_blank">谷歌 Chrome</a>
 
@@ -18,7 +51,7 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="https://fly63.com/lib/plug/flytool.crx"   target="_blank">crx文件下载</a><a href="https://fly63.com/article/detial/12173"   target="_blank">(离线安装指南)</a>
 
-## 在线转换
+### 在线转换
 
 <a href="https://fly63.com/tool/csass"   target="_blank">Sass/Less/Stylus在线转换工具</a>
 
@@ -100,7 +133,7 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="https://fly63.com/tool/bcc"   target="_blank">bcc校验码计算工具(异或校验)</a>
 
-## 加密/解密
+### 加密/解密
 
 <a href="https://fly63.com/tool/cipher"   target="_blank">在线加密解密【Base64、AES、DES】</a>
 
@@ -172,7 +205,7 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="https://fly63.com/tool/ripemd160"   target="_blank">ripemd160哈希算法加密工具</a>
 
-## 站长工具
+### 站长工具
 
 <a href="https://fly63.com/php/weiyuanchuang"   target="_blank">免费在线智能AI文章伪原创工具</a>
 
@@ -236,7 +269,7 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="https://fly63.com/tool/view_source"   target="_blank">网站源代码在线查询工具</a>
 
-## 代码相关
+### 代码相关
 
 <a href="https://fly63.com/tool/editoronline"   target="_blank">代码在线编辑器IDE</a>
 
@@ -316,7 +349,7 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="https://fly63.com/tool/shortcut_vscode"   target="_blank">vscode快捷键查询工具</a>
 
-## CSS样式
+### CSS样式
 
 <a href="https://fly63.com/tool/cstriangle"   target="_blank">CSS三角形生成器</a>
 
@@ -374,7 +407,7 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="https://fly63.com/tool/color_tool"   target="_blank">色彩工具箱(颜色混合/匹配度/相反值/颜色拾取)</a>
 
-## 二维码
+### 二维码
 
 <a href="https://fly63.com/php/wxerm"   target="_blank">微信小程序二维码生成工具</a>
 
@@ -388,7 +421,7 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="https://fly63.com/tool/alipay"   target="_blank">支付宝微信收款码二合一</a>
 
-## 图片处理
+### 图片处理
 
 <a href="https://fly63.com/tool/base64"   target="_blank">图片在线转换Base64数据</a>
 
@@ -464,7 +497,7 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="https://fly63.com/tool/imgtosvg"   target="_blank">图片转换svg格式在线生成器</a>
 
-## 生活工具
+### 生活工具
 
 <a href="https://fly63.com/tool/calendar"   target="_blank">公历农历转换查询工具</a>
 
@@ -610,7 +643,7 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="https://fly63.com/tool/cunkuan"   target="_blank">存款收益计算器(定期/活期/存本取息/通知存款)</a>
 
-## 娱乐相关
+### 娱乐相关
 
 <a href="https://fly63.com/php/dujitang"   target="_blank">毒鸡汤语录</a>
 
@@ -698,7 +731,7 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="https://fly63.com/tool/checkcps"   target="_blank">Cps手速测试器网页版(鼠标点击速度挑战)</a>
 
-## 文档教程
+### 文档教程
 
 <a href="https://fly63.com/tool/es6"   target="_blank">ECMAScript 6 入门</a>
 
@@ -720,7 +753,7 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="https://fly63.com/tool/nginxdoc"   target="_blank">Nginx中文文档</a>
 
-## 其它工具
+### 其它工具
 
 <a href="https://fly63.com/tool/ascii"   target="_blank">ASCII码对照表</a>
 
@@ -860,7 +893,7 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="https://fly63.com/tool/shortcut_excel"   target="_blank">excel快捷键大全完整版</a>
 
-## 第三方工具
+### 第三方工具
 
 <a href="https://fly63.com/tool/other.html?u=jiumodiary"   target="_blank" rel="nofollow">鸠摩搜书_电子书搜索引擎</a>
 
@@ -886,13 +919,13 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="https://smallpdf.com/cn/pdf-tools"   target="_blank" rel="nofollow">在线PDF工具</a>
 
-### 用户推荐
+#### 用户推荐
 
 <a href="https://r.xjq.icu"   target="_blank" rel="nofollow">在线编写,运行代码</a>
 
 <a href="https://woc.space/"   target="_blank" rel="nofollow">全球不限速大文件交付/协作平台</a>
 
-## 优惠券领取
+### 优惠券领取
 
 <a href="https://fly63.com/nav/2907"   target="_blank" rel="nofollow">阿里云优惠券</a>
 
@@ -902,7 +935,7 @@ github：<a href="https://mydearcc.github.io/tools"   target="_blank">https://my
 
 <a href="http://tb.fly63.com"   target="_blank" rel="nofollow">淘宝天猫优惠券</a>
 
-## 赞赏作者
+### 赞赏作者
 
 创作不易，你的赞赏和认可，是我更新的最大动力：
 
