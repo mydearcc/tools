@@ -1,14 +1,82 @@
-# Comprehensive Online Toolbox Collection
+# 🛠️ fly63 Online Toolbox - Free, Minimalist & Efficient Web Utilities
 
-[README in Chinese](README.md)
+> **🌟 Try Now: [https://www.fly63.com](https://fly63.com/tool/home.html), [README in Chinese](README.md)**  
+> *Tools work globally regardless of language!*
 
-Dedicated to creating and collecting various simple, easy-to-use, and convenient online tools that can be used for free without registration or downloads. Currently, hundreds of interesting and useful small features have been developed, with more being added continuously. Some tools originate from open-source projects. The toolbox mainly includes: programmer online documentation, online conversion, encryption/decryption, webmaster tools, code development, CSS styles, text tools, QR code processing, image processing, life/office tools, entertainment tools, and more.
+**fly63 Toolbox** is a 100% **free**, zero-ads, no-registration-required collection of **single-purpose web utilities** for developers and digital professionals. Optimized for speed and simplicity.
 
-Aiming to build China's professional WEB development tools that are completely free to use. Come and experience them now! We hope they can be helpful to you. If you find any tool particularly useful, feel free to recommend it to others.
+**🎯 Perfect For:**  
+Frontend Developers • Full-stack Engineers • UI/UX Designers • Webmasters • DevOps • Content Creators
 
-GitHub: <a href="https://mydearcc.github.io/tools" target="_blank">https://mydearcc.github.io/tools</a>, welcome to <a href="https://github.com/mydearcc/tools/stargazers" target="_blank">star</a>, <a href="https://github.com/mydearcc/tools/issues/1" target="_blank">recommend</a>, <a href="https://fly63.com/article/detial/10239" target="_blank">sponsor</a>.
+## 🔥 Core Features & Tools
 
-## Browser Extensions
+### 🧰 Developer Essentials
+- Code Cheatsheets (HTML5/CSS3/JS)
+- JSON Formatter & Validator
+- Base64 Encoder/Decoder
+- Regex Tester
+- JWT Debugger
+
+### 🔄 Data Converters
+- JSON <> XML/YAML/CSV
+- Image Converter (JPG/PNG/WebP)
+- PDF to Image/Text
+- Color Converter (HEX/RGB/HSL)
+
+### 🔐 Security Tools
+- Hash Generators (MD5, SHA256)
+- AES/DES Encrypt & Decrypt
+- RSA Key Pair Generator
+- SSL Certificate Decoder
+
+### 🌐 Webmaster Utilities
+- HTTP Header Analyzer
+- Meta Tag Generator
+- Robots.txt Validator
+- Website Screenshot
+
+### 🎨 CSS Tools
+- CSS Minifier & Beautifier
+- LESS/SCSS Compiler
+- Gradient Generator
+- Box Shadow Creator
+
+### 📱 QR & Media
+- QR Code Generator (Customizable)
+- Image Compressor & Resizer
+- EXIF Data Viewer
+- Video to GIF Converter
+
+> **✨ Why Choose fly63?**  
+> ✅ 100% Free • 🚀 Zero Latency • 🧩 No Installation • 📱 Mobile-Friendly • 🔄 Continuously Updated  
+> **[Explore All Tools →](https://mydearcc.github.io/tools)**
+
+## 🌍 For International Users
+**Q: The website is in Chinese. Can I use it?**  
+A: Absolutely! Here's how:
+1. Use **Chrome Translate** (right-click → "Translate to English")
+2. Bookmark tools you use frequently
+3. Identify tools by their universal icons (see screenshot)
+4. Most tools require only data input → process → copy output
+
+**Pro Tip:** Enable "[Always Translate Chinese](chrome://settings/languages)" in Chrome for seamless access.
+
+---
+
+## 🚀 Getting Started
+1. Visit [https://www.fly63.com]((https://fly63.com/tool/home.html)
+2. Use browser translation if needed
+3. Browse categories or search using tool names:
+   - "JSON formatter"
+   - "CSS minifier"
+   - "QR generator"
+4. Input data → Get instant results
+
+---
+
+# Quick access
+
+### Browser Extensions
 
 <a href="https://chrome.google.com/webstore/detail/fly63%E5%B7%A5%E5%85%B7%E7%AE%B1/oicicpjppdafaknaepojmjpjoinimbel" target="_blank">Google Chrome</a>
 
@@ -18,7 +86,7 @@ GitHub: <a href="https://mydearcc.github.io/tools" target="_blank">https://mydea
 
 <a href="https://fly63.com/lib/plug/flytool.crx" target="_blank">CRX File Download</a><a href="https://fly63.com/article/detial/12173" target="_blank">(Offline Installation Guide)</a>
 
-## Online Conversion
+### Online Conversion
 
 <a href="https://fly63.com/tool/csass" target="_blank">Sass/Less/Stylus Online Conversion Tool</a>
 
@@ -98,9 +166,19 @@ GitHub: <a href="https://mydearcc.github.io/tools" target="_blank">https://mydea
 
 <a href="https://fly63.com/tool/text_binary" target="_blank">Text and Binary Conversion Tool</a>
 
-<a href="https://fly63.com/tool/bcc" target="_blank">BCC Checksum Calculation Tool (XOR Checksum)</a>
+<a href="https://fly63.com/tool/href="https://fly63.com/" target="_blank">href="https://fly63.com/ Checksum Calculation Tool (XOR Checksum)</a>
 
-## Encryption/Decryption
+<a href="https://fly63.com/tool/table2json"   target="_blank">Html table to json tool (webpage table to json)</a>
+
+<a href="https://fly63.com/tool/text_voice"   target="_blank">Online Text-to-Speech Tool (Text-to-Audio Playback)</a>
+
+<a href="https://fly63.com/tool/json_php"   target="_blank">json to php array object tool</a>
+
+<a href="https://fly63.com/tool/cookie_json"   target="_blank">Cookie to JSON converter tool</a>
+
+<a href="https://fly63.com/tool/json_slice"   target="_blank">JSON File Slicing Tool (JSON Slice and Extract Tool)</a>
+
+### Encryption/Decryption
 
 <a href="https://fly63.com/tool/cipher" target="_blank">Online Encryption/Decryption [Base64, AES, DES]</a>
 
@@ -172,7 +250,11 @@ GitHub: <a href="https://mydearcc.github.io/tools" target="_blank">https://mydea
 
 <a href="https://fly63.com/tool/ripemd160" target="_blank">RIPEMD160 Hash Algorithm Encryption Tool</a>
 
-## Webmaster Tools
+<a href="https://fly63.com/tool/telegraph"   target="_blank">Online query of telegraph code translation table</a>
+
+<a href="https://fly63.com/tool/urldecode"   target="_blank">URL Encoding and Decoding Conversion Tool (URL Encode Online Converter)</a>
+
+### Webmaster Tools
 
 <a href="https://fly63.com/php/weiyuanchuang" target="_blank">Free Online AI Article Rewriting Tool</a>
 
@@ -236,7 +318,19 @@ GitHub: <a href="https://mydearcc.github.io/tools" target="_blank">https://mydea
 
 <a href="https://fly63.com/tool/view_source" target="_blank">Website Source Code Online Query Tool</a>
 
-## Code Related
+<a href="https://fly63.com/php/dns"   target="_blank">Domain name DNS resolution query website (nslookup record query)</a>
+
+<a href="https://fly63.com/php/sslquery"   target="_blank" class="red">Batch query tool for domain name SSL certificate expiration time</a>
+
+<a href="https://fly63.com/tool/cdn_check"   target="_blank">Online website cdn detection tool (cdn address query)</a>
+
+<a href="https://fly63.com/tool/keyword_check"   target="_blank" class="red">Webpage Keyword Density Check Tool (SEO Article Keyword Density Query)</a>
+
+<a href="https://fly63.com/php/gzipcheck"   target="_blank">Webpage gzip compression detection tool (website gzip online query)</a>
+
+<a href="https://fly63.com/tool/web_spider"   target="_blank">Web Spider Simulation and Crawling Test Tool</a>
+
+### Code Related
 
 <a href="https://fly63.com/tool/editoronline" target="_blank">Online Code Editor IDE</a>
 
@@ -316,7 +410,11 @@ GitHub: <a href="https://mydearcc.github.io/tools" target="_blank">https://mydea
 
 <a href="https://fly63.com/tool/shortcut_vscode" target="_blank">VSCode Shortcut Query Tool</a>
 
-## CSS Styles
+<a href="https://fly63.com/tool/html_extract"   target="_blank">Batch Extractor for HTML Images/Videos/Audio/URL Links/Resources</a>
+ 
+<a href="https://fly63.com/tool/mimetype"   target="_blank">Complete List of File Formats (MimeType Quick Reference Table)</a>
+
+### CSS Styles
 
 <a href="https://fly63.com/tool/cstriangle" target="_blank">CSS Triangle Generator</a>
 
@@ -374,7 +472,7 @@ GitHub: <a href="https://mydearcc.github.io/tools" target="_blank">https://mydea
 
 <a href="https://fly63.com/tool/color_tool" target="_blank">Color Toolbox (Color Mixing/Match Degree/Inverse Value/Color Picker)</a>
 
-## QR Codes
+### QR Codes
 
 <a href="https://fly63.com/php/wxerm" target="_blank">WeChat Mini Program QR Code Generator</a>
 
@@ -388,7 +486,11 @@ GitHub: <a href="https://mydearcc.github.io/tools" target="_blank">https://mydea
 
 <a href="https://fly63.com/tool/alipay" target="_blank">Alipay/WeChat Payment QR Code Merger</a>
 
-## Image Processing
+<a href="https://fly63.com/tool/barcodeparse"   target="_blank">One dimensional barcode parser</a>
+
+<a href="https://fly63.com/tool/wx_qrcode" target="_blank">WeChat official account QR code online generator</a>
+
+### Image Processing
 
 <a href="https://fly63.com/tool/base64" target="_blank">Image to Base64 Data Online Converter</a>
 
@@ -464,7 +566,27 @@ GitHub: <a href="https://mydearcc.github.io/tools" target="_blank">https://mydea
 
 <a href="https://fly63.com/tool/imgtosvg" target="_blank">Image to SVG Format Online Converter</a>
 
-## Life Tools
+<a href="https://fly63.com/tool/pdf_imgs" target="_blank">PDF Image Extractor (Tool to Extract Images from PDF)</a>
+
+<a href="https://fly63.com/tool/img_ocr" target="_blank">OCR Image Text Recognition Tool (Online Text Extractor)</a>
+
+<a href="https://fly63.com/tool/color_blindness" target="_blank">Color Blindness Test (Red/Green/Blue/Yellow Color Weakness Detection)</a>
+
+<a href="https://fly63.com/tool/img_coord" target="_blank">Image Coordinate Locator Tool (Image Coordinate Viewer)</a>
+
+<a href="https://fly63.com/tool/ppt_img" target="_blank" class="red">PPT Image Extractor Tool (Batch Export Images from PPT)</a>
+
+<a href="https://fly63.com/tool/heicimg" target="_blank">HEIC Image Format Converter (View Apple HEIC Images)</a>
+
+<a href="https://fly63.com/tool/web_icon" target="_blank">Online Website Icon Download Tool</a>
+
+<a href="https://fly63.com/tool/png_bg" target="_blank">PNG Image Background Color Changer Tool</a>
+
+<a href="https://fly63.com/tool/excel_img" target="_blank">Excel Image Extractor Tool (Batch Extract Images from Excel)</a>
+
+<a href="https://fly63.com/tool/img_colorreverse" target="_blank">Image Color Inversion Tool (Reverse Image Colors for Negative Effect)</a>
+
+### Life Tools
 
 <a href="https://fly63.com/tool/calendar" target="_blank">Gregorian/Lunar Calendar Conversion Query Tool</a>
 
@@ -610,7 +732,27 @@ GitHub: <a href="https://mydearcc.github.io/tools" target="_blank">https://mydea
 
 <a href="https://fly63.com/tool/cunkuan" target="_blank">Deposit Earnings Calculator (Fixed/Current/Interest-Bearing/Notice Deposit)</a>
 
-## Entertainment Related
+<a href="https://fly63.com/tool/zhaopiansize" target="_blank">ID Photo Size Guide (Photo Size Standard Query Tool)</a>
+
+<a href="https://fly63.com/tool/irr" target="_blank" class="red">Internal Rate of Return (IRR) Calculator</a>
+
+<a href="https://fly63.com/tool/college_info" target="_blank">General Higher Education Institutions List Query Tool</a>
+
+<a href="https://fly63.com/tool/invest" target="_blank">Investment Return Planning Calculator</a>
+
+<a href="https://fly63.com/tool/child_height" target="_blank">Children's Standard Height and Weight Reference Chart</a>
+
+<a href="https://fly63.com/tool/bfr" target="_blank">BFR Body Fat Percentage Calculator</a>
+
+<a href="https://fly63.com/tool/bmr" target="_blank">BMR Basal Metabolic Rate Calculator</a>
+
+<a href="https://fly63.com/tool/taiertizhong" target="_blank">Fetal Weight Calculator (Pregnancy Week Reference Chart)</a>
+
+<a href="https://fly63.com/tool/team_group" target="_blank">Random Team Grouping Tool (Activity Grouping Utility)</a>
+
+<a href="https://fly63.com/tool/day_riqi" target="_blank">Date and Time Difference Calculator (Time Interval Counter)</a>
+
+### Entertainment Related
 
 <a href="https://fly63.com/php/dujitang" target="_blank">Poisonous Chicken Soup Quotes</a>
 
@@ -698,7 +840,17 @@ GitHub: <a href="https://mydearcc.github.io/tools" target="_blank">https://mydea
 
 <a href="https://fly63.com/tool/checkcps" target="_blank">CPS Click Speed Tester Web Version (Mouse Click Speed Challenge)</a>
 
-## Documentation Tutorials
+<a href="https://fly63.com/tool/game_rps" target="_blank">Play Rock-Paper-Scissors online (fun/entertaining/fair)</a>
+
+<a href="https://fly63.com/tool/niepaopao" target="blank">Paper Bubble Punching Simulator (stress relief, decompression)</a>
+
+<a href="https://fly63.com/toolfireworks" target="_blank">Fireworks Simulator (watch various fireworks online)</a>
+
+<a href=/tool/mofang" target="_blank">Online Rubik's Cube Simulator (play with a Rubik's cube online)</>
+
+<a href="https://fly63.com/tool/reversi" target="_blank">Online Reversi (Othello)</a>
+
+### Documentation Tutorials
 
 <a href="https://fly63.com/tool/es6" target="_blank">ECMAScript 6 Introduction</a>
 
@@ -720,7 +872,7 @@ GitHub: <a href="https://mydearcc.github.io/tools" target="_blank">https://mydea
 
 <a href="https://fly63.com/tool/nginxdoc" target="_blank">Nginx Chinese Documentation</a>
 
-## Other Tools
+### Other Tools
 
 <a href="https://fly63.com/tool/ascii" target="_blank">ASCII Code Comparison Table</a>
 
@@ -860,7 +1012,27 @@ GitHub: <a href="https://mydearcc.github.io/tools" target="_blank">https://mydea
 
 <a href="https://fly63.com/tool/shortcut_excel" target="_blank">Excel Shortcuts Complete Version</a>
 
-## Third-Party Tools
+<a href="https://fly63.com/tool/calclcm"   target="_blank" class="red">Least Common Multiple Calculator (How to find the least common multiple)</a>
+
+<a href="https://fly63.com/tool/shortcut_"   target="_blank">Word Shortcut Command Reference</a>
+
+<a href="https://fly63.com/tool/zhhangsize"   target="_blank">Standard Paper Size Specification Comparison Table</a>
+
+<a href="https://fly63.com/sanwei"   target="_blank">Waist, Hip, and Bust Measurement Standard Comparison Table (Reference for calculating female body sizelt;/a>
+
+<a href="https://fly63.com/tool/file_resize"   target="_blank">File Volume Size Mod Tool (Online File Expansion)</a>
+
+<a href="https://fly63.com/tool/shortcut_chrome"   target="_blank"gt;Chrome Browser Command Line and Shortcut Reference</a>
+
+<a href="https://fly63.com/tool/lorem_ipsum"target="_blank">Lorem Ipsum Random Text Generator</a>
+
+<a href="https://fly63.com/tool/board"   target="_blank">Online Keyboard Key Test Tool Website</a>
+
+<a href="https://fly63.com/toolcountry_code"   target="_blank">Global Country Abbreviation Inquiry Tool (Country and Region Code)</a>
+
+<a href="https://fly63.com/tool/gpa_calculator"   target="_blank">Course Grade Point GPA Calculator (Online Credit Grade Point Cal)</a>
+
+### Third-Party Tools
 
 <a href="https://fly63.com/tool/other.html?u=jiumodiary" target="_blank" rel="nofollow">Jiumo Book Search_E-book Search Engine</a>
 
@@ -886,13 +1058,13 @@ GitHub: <a href="https://mydearcc.github.io/tools" target="_blank">https://mydea
 
 <a href="https://smallpdf.com/cn/pdf-tools" target="_blank" rel="nofollow">Online PDF Tools</a>
 
-### User Recommendations
+#### User Recommendations
 
 <a href="https://r.xjq.icu" target="_blank" rel="nofollow">Online Code Writing and Execution</a>
 
 <a href="https://woc.space/" target="_blank" rel="nofollow">Global Unlimited Speed Large File Delivery/Collaboration Platform</a>
 
-## Coupon Collection
+### Coupon Collection
 
 <a href="https://fly63.com/nav/2907" target="_blank" rel="nofollow">Alibaba Cloud Coupons</a>
 
