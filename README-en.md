@@ -48,7 +48,7 @@ Frontend Developers • Full-stack Engineers • UI/UX Designers • Webmasters 
 - Video to GIF Converter
 
 > **✨ Why Choose fly63?**  
-> ✅ 100% Free • 🚀 Zero Latency • 🧩 No Installation • 📱 Mobile-Friendly • 🔄 Continuously Updated  
+> ✅ 100% Free • 🚀 Zero Latency • 🧩 No Installation • 🔄 Continuously Updated  
 > **[Explore All Tools →](https://mydearcc.github.io/tools)**
 
 ## 🌍 For International Users
