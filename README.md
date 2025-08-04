@@ -34,7 +34,6 @@
 1.  访问主站 [https://fly63.com](https://fly63.com/tool/home.html)。
 2.  在导航栏或搜索框找到您需要的工具。
 3.  输入内容，工具将**即时处理**并显示结果。
-4.  复制或下载结果即可！简单高效。
 
 **👍 觉得好用？ 欢迎给个 ⭐ Star 支持！您的认可是我们持续更新的动力！**
 **🐛 发现问题或有建议？ 欢迎 [提交 Issue](https://github.com/mydearcc/tools/issues)。**
@@ -143,6 +142,30 @@
 
 <a href="https://fly63.com/tool/json_slice"   target="_blank">json文件分割工具(json切片截取部分)</a>
 
+<a href="https://fly63.com/tool/json_protobuf"   target="_blank">在线json转protobuf工具</a>
+
+<a href="https://fly63.com/tool/ts_js"   target="_blank"  class="red">typescript编译成js工具(js/ts转换器)</a>
+
+<a href="https://fly63.com/tool/json_toml"   target="_blank">JSON/TOML转换器(json转toml工具)</a>
+
+<a href="https://fly63.com/tool/pdfmeta"   target="_blank">pdf元数据修改器(pdf元信息编辑工具)</a>
+
+<a href="https://fly63.com/tool/text_compare"   target="_blank">文本比较转换工具(文本交集/并集/差集)</a>
+
+<a href="https://fly63.com/tool/text_sort"   target="_blank">文本排序工具(数字/字母/拼音/字符串在线排序)</a>
+
+<a href="https://fly63.com/tool/certificate_conversion"   target="_blank">SSL证书格式转换工具(PEM/DER/CER/CRT/HEX)</a>
+
+<a href="https://fly63.com/tool/bitwise"   target="_blank">在线位运算计算器(与/或/异或/取反/左移/右移)</a>
+
+<a href="https://fly63.com/tool/quweima"   target="_blank">汉字区位码转换查询工具(区位码在线转换器)</a>
+
+<a href="https://fly63.com/tool/xml2excel"   target="_blank"  class="red">xml转成excel表格工具(xml转csv文件)</a>
+
+<a href="https://fly63.com/tool/xml2go"   target="_blank">xml转golang结构体工具(xml在线生成go代码)</a>
+
+<a href="https://fly63.com/tool/json2python"   target="_blank">json转Python类/字典代码生成器</a>
+
 ### 加密/解密
 
 <a href="https://fly63.com/tool/cipher"   target="_blank">在线加密解密【Base64、AES、DES】</a>
@@ -219,6 +242,34 @@
 
 <a href="https://fly63.com/tool/urldecode"   target="_blank">URL解码编码转换工具(urlencode在线转换器)</a>
 
+<a href="https://fly63.com/tool/tapcode"   target="_blank">Tap code敲击码转换工具(敲击码解密对照表)</a>
+
+<a href="https://fly63.com/tool/atbash"   target="_blank">埃特巴什码密码转换器(解密对照表)</a>
+
+<a href="https://fly63.com/tool/base16"   target="_blank">base16加密解密工具(base16在线解码转换器)</a>
+
+<a href="https://fly63.com/tool/beaufort"   target="_blank">博福特密码在线解密加密工具</a>
+
+<a href="https://fly63.com/tool/four_square"   target="_blank">四方密码解密翻译器(四方密码转换对照表)</a>
+
+<a href="https://fly63.com/tool/a1z26"   target="_blank">字母数字在线转换工具(a1z26加密法转换器)</a>
+
+<a href="https://fly63.com/tool/rot13"   target="_blank">Rot13在线加密解密工具(rot13编码)</a>
+
+<a href="https://fly63.com/tool/railfence"   target="_blank">栅栏密码在线加密解密工具</a>
+
+<a href="https://fly63.com/tool/vigenere"   target="_blank">维吉尼亚密码转换器/对照表</a>
+
+<a href="https://fly63.com/tool/pbkdf2"   target="_blank">PBKDF2在线加解密工具(密钥派生校验)</a>
+
+<a href="https://fly63.com/tool/rijndael"   target="_blank">Rijndael加密解密工具(AES高级加密标准)</a>
+
+<a href="https://fly63.com/tool/sm3"   target="_blank">国密Sm3加密工具(SM3散列哈希算法在线)</a>
+
+<a href="https://fly63.com/tool/deflate"   target="_blank">文本deflate压缩/解压工具</a>
+
+<a href="https://fly63.com/tool/brotli"   target="_blank">Brotli压缩/解压算法工具</a>
+
 ### 站长工具
 
 <a href="https://fly63.com/php/weiyuanchuang"   target="_blank">免费在线智能AI文章伪原创工具</a>
@@ -294,6 +345,10 @@
 <a href="https://fly63.com/php/gzipcheck"   target="_blank">网页gzip压缩检测工具(网站gzip在线查询)</a>
 
 <a href="https://fly63.com/tool/web_spider"   target="_blank">网页蜘蛛模拟抓取测试工具</a>
+
+<a href="https://fly63.com/tool/web_log"   target="_blank">网站日志解析/流量分析工具</a>
+
+<a href="https://fly63.com/tool/similar"   target="_blank">文章相似度检测工具在线检测(文本相似度匹配)</a>
 
 ### 代码相关
 
@@ -379,6 +434,14 @@
 
 <a href="https://fly63.com/tool/mimetype"   target="_blank">各类文件格式类型大全(MimeType速查表)</a>
 
+<a href="https://fly63.com/tool/php_format"   target="_blank">php代码格式化在线(php代码美化工具)</a>
+
+<a href="https://fly63.com/tool/csr_decoder"   target="_blank" class="red">CSR证书文件解析工具(csr内容查看器)</a>
+
+<a href="https://fly63.com/tool/csr_create"   target="_blank">证书csr文件生成器(在线生成证书请求文件CSR)</a>
+
+<a href="https://fly63.com/tool/html_escape"   target="_blank">html代码字符转义工具</a>
+
 ### CSS样式
 
 <a href="https://fly63.com/tool/cstriangle"   target="_blank">CSS三角形生成器</a>
@@ -436,6 +499,12 @@
 <a href="https://fly63.com/tool/color_middle"   target="_blank">色彩中间色计算工具(过渡色获取器)</a>
 
 <a href="https://fly63.com/tool/color_tool"   target="_blank">色彩工具箱(颜色混合/匹配度/相反值/颜色拾取)</a>
+
+<a href="https://fly63.com/tool/cubic_bezier"   target="_blank">css3贝塞尔曲线动画可视化工具</a>
+
+<a href="https://fly63.com/tool/px_rem"   target="_blank">px和rem转换器(css批量实现px转rem工具)</a>
+
+<a href="https://fly63.com/tool/css_colorname"   target="_blank">css颜色代码表(html各种颜色代码对照表大全)</a>
 
 ### 二维码
 
@@ -550,6 +619,10 @@
 <a href="https://fly63.com/tool/excel_img"   target="_blank">Excel图片提取工具(批量获取excel图片)</a>
 
 <a href="https://fly63.com/tool/img_colorreverse"   target="_blank">图像反相/反色处理工具(反转图片颜色负片效果)</a>
+
+<a href="https://fly63.com/tool/pdf_intensify"   target="_blank">pdf防止复制粘贴修改工具(pdf内容转换为图片)</a>
+
+<a href="https://fly63.com/tool/img_colorpicker"   target="_blank">图片取色器在线生成器(图片颜色提取识别)</a>
 
 ### 生活工具
 
@@ -717,6 +790,20 @@
 
 <a href="https://fly63.com/tool/day_riqi"   target="_blank">日期时间差计算器(时间间隔计数器)</a>
 
+<a href="https://fly63.com/tool/24jieqi"   target="_blank">24节气对应时间查询(24节气歌/含义和理解)</a>
+
+<a href="https://fly63.com/tool/adjusted_weight"   target="_blank">调整体重/理想体重计算器</a>
+
+<a href="https://fly63.com/tool/ffmi_calculator"   target="_blank">无脂肪质量指数计算(FFMI肌肉水平计算器)</a>
+
+<a href="https://fly63.com/tool/absi_calculator"   target="_blank">体型指数计算器在线计算(ABSI体型指数)</a>
+
+<a href="https://fly63.com/tool/subway_search"   target="_blank">全国地铁路线查询工具(地铁全程站点图)</a>
+
+<a href="https://fly63.com/tool/dianfei"   target="_blank">在线电费计算器(设备耗电量计算工具)</a>
+
+<a href="https://fly63.com/tool/oil_calculator"   target="_blank">汽车油耗计算器(汽车油耗怎么算)</a>
+
 ### 娱乐相关
 
 <a href="https://fly63.com/php/dujitang"   target="_blank">毒鸡汤语录</a>
@@ -814,6 +901,12 @@
 <a href="https://fly63.com/tool/mofang" target="_blank">在线魔方模拟器网站(魔方在线玩)</a>
 
 <a href="https://fly63.com/tool/reversi" target="_blank">黑白棋网页版在线玩</a>
+
+<a href="https://fly63.com/tool/poetry_chains" target="_blank">古诗词上下句填空接龙游戏</a>
+
+<a href="https://fly63.com/tool/dinosaur" target="_blank">恐龙快跑小游戏网页版</a>
+
+<a href="https://fly63.com/tool/looptap" target="_blank">LoopTape消磨时间的小游戏(简单有趣的反应力游戏)</a>
 
 ### 文档教程
 
@@ -996,6 +1089,16 @@
 <a href="https://fly63.com/tool/country_code"   target="_blank">全球国家简码查询工具(国家地区代码)</a>
 
 <a href="https://fly63.com/tool/gpa_calculator"   target="_blank">课程绩点gpa计算器(学分绩点在线计算)</a>
+
+<a href="https://fly63.com/tool/matrix_calculator"   target="_blank" class="red">矩阵计算器(矩阵乘法/除法/等价/秩逆/公式运算)</a>
+
+<a href="https://fly63.com/tool/pi_query"   target="_blank">PI圆周率位数查询器(π查询数字)</a>
+
+<a href="https://fly63.com/tool/bignum_calculator"   target="_blank">超大整数小数精确计算器(大数运算工具)</a>
+
+<a href="https://fly63.com/tool/cat_age"   target="_blank">猫猫年龄计算器(猫咪年龄换算器)</a>
+
+<a href="https://fly63.com/tool/salary_cal"   target="_blank">实时工资计算器网页版(查看每秒收入)</a>
 
 ### 第三方工具
 
