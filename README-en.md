@@ -178,6 +178,30 @@ A: Absolutely! Here's how:
 
 <a href="https://fly63.com/tool/json_slice"   target="_blank">JSON File Slicing Tool (JSON Slice and Extract Tool)</a>
 
+<a href="https://fly63.com/tool/json_protobuf"   target="_blank">Online json to protobuf tool</a>
+
+<a href="https://fly63.com/tool/ts_js"   target="_blank"  class="red">Compiled typescript into js tool (js/ts converter)</a>
+
+<a href="https://fly63.com/tool/json_toml"   target="_blank">JSON/TOML converter (json to toml tool)</a>
+
+<a href="https://fly63.com/tool/pdfmeta"   target="_blank">pdf metadata modifier (pdf metadata editing tool)</a>
+
+<a href="https://fly63.com/tool/text_compare"   target="_blank">Text comparison conversion tool (text intersection/union/difference set)</a>
+
+<a href="https://fly63.com/tool/text_sort"   target="_blank">Text sorting tool (online sorting of numbers/letters/pinyin/strings)</a>
+
+<a href="https://fly63.com/tool/certificate_conversion"   target="_blank">SSL Certificates Format Conversion Tool (PEM/DER/CER/CRT/HEX)</a>
+
+<a href="https://fly63.com/tool/bitwise"   target="_blank">Online bit arithmetic calculator (AND/OR/XOR/negate/shift left/shift right)</a>
+
+<a href="https://fly63.com/tool/quweima"   target="_blank">Chinese character location code conversion query tool (location code online converter)</a>
+
+<a href="https://fly63.com/tool/xml2excel"   target="_blank"  class="red">Convert xml to excel table tool (xml to csv file)</a>
+
+<a href="https://fly63.com/tool/xml2go"   target="_blank">Xml-to-golang structure tool (xml online generation of go code)</a>
+
+<a href="https://fly63.com/tool/json2python"   target="_blank">json to Python class/dictionary code generator</a>
+
 ### Encryption/Decryption
 
 <a href="https://fly63.com/tool/cipher" target="_blank">Online Encryption/Decryption [Base64, AES, DES]</a>
@@ -254,6 +278,34 @@ A: Absolutely! Here's how:
 
 <a href="https://fly63.com/tool/urldecode"   target="_blank">URL Encoding and Decoding Conversion Tool (URL Encode Online Converter)</a>
 
+<a href="https://fly63.com/tool/tapcode"   target="_blank">Tap code tapping code conversion tool (tapping code decryption comparison table)</a>
+
+<a href="https://fly63.com/tool/atbash"   target="_blank">Etbash code cryptoconverter (decryption comparison table)</a>
+
+<a href="https://fly63.com/tool/base16"   target="_blank">base16 encryption and decryption tool (base16 online decoding converter)</a>
+
+<a href="https://fly63.com/tool/beaufort"   target="_blank">Beaufort Password Online Decoding and Encryption Tool</a>
+
+<a href="https://fly63.com/tool/four_square"   target="_blank">Quadripartite Password Decoding Translator (Quadripartite Password Conversion Table)</a>
+
+<a href="https://fly63.com/tool/a1z26"   target="_blank">Alpha-numeric online conversion tool (a1z26 encryption converter)</a>
+
+<a href="https://fly63.com/tool/rot13"   target="_blank">Rot13 Online Encryption and Decryption Tool (rot13 Encoding)</a>
+
+<a href="https://fly63.com/tool/railfence"   target="_blank">Fence Password Online Encryption and Decryption Tool</a>
+
+<a href="https://fly63.com/tool/vigenere"   target="_blank">Virginia Crypto Converter/Check-Up Table</a>
+
+<a href="https://fly63.com/tool/pbkdf2"   target="_blank">PBKDF2 online encryption and decryption tool (key derivation verification)</a>
+
+<a href="https://fly63.com/tool/rijndael"   target="_blank">Rijndael Encryption and Decryption Tool (AES Advanced Encryption Standard)</a>
+
+<a href="https://fly63.com/tool/sm3"   target="_blank">National Secret Sm3 Encryption Tool (SM3 Hash Algorithm Online)</a>
+
+<a href="https://fly63.com/tool/deflate"   target="_blank">Text deflect compression/decompression tool</a>
+
+<a href="https://fly63.com/tool/brotli"   target="_blank">Brotli Compression/Decompression Algorithm Tool</a>
+
 ### Webmaster Tools
 
 <a href="https://fly63.com/php/weiyuanchuang" target="_blank">Free Online AI Article Rewriting Tool</a>
@@ -329,6 +381,10 @@ A: Absolutely! Here's how:
 <a href="https://fly63.com/php/gzipcheck"   target="_blank">Webpage gzip compression detection tool (website gzip online query)</a>
 
 <a href="https://fly63.com/tool/web_spider"   target="_blank">Web Spider Simulation and Crawling Test Tool</a>
+
+<a href="https://fly63.com/tool/web_log"   target="_blank">Website log analysis/traffic analysis tool</a>
+
+<a href="https://fly63.com/tool/similar"   target="_blank">Article Similarity Detection Tools Online Detection (Text Similarity Matching)</a>
 
 ### Code Related
 
@@ -414,6 +470,14 @@ A: Absolutely! Here's how:
  
 <a href="https://fly63.com/tool/mimetype"   target="_blank">Complete List of File Formats (MimeType Quick Reference Table)</a>
 
+<a href="https://fly63.com/tool/php_format"   target="_blank">Php code formatting online (php code beautification tool)</a>
+
+<a href="https://fly63.com/tool/csr_decoder"   target="_blank" class="red">CSR certificate file parsing tool (csr content viewer)</a>
+
+<a href="https://fly63.com/tool/csr_create"   target="_blank">Certificate csr file generator (generates certificate request file CSR online)</a>
+
+<a href="https://fly63.com/tool/html_escape"   target="_blank">HTML code character escape tool</a>
+
 ### CSS Styles
 
 <a href="https://fly63.com/tool/cstriangle" target="_blank">CSS Triangle Generator</a>
@@ -472,6 +536,12 @@ A: Absolutely! Here's how:
 
 <a href="https://fly63.com/tool/color_tool" target="_blank">Color Toolbox (Color Mixing/Match Degree/Inverse Value/Color Picker)</a>
 
+<a href="https://fly63.com/tool/cubic_bezier"   target="_blank">Css3 Bezier curve animation visualization tool</a>
+
+<a href="https://fly63.com/tool/px_rem"   target="_blank">px and rem converter (css batch implementation px to rem tool)</a>
+
+<a href="https://fly63.com/tool/css_colorname"   target="_blank">Css color code table (html various color code comparison table complete)</a>
+			
 ### QR Codes
 
 <a href="https://fly63.com/php/wxerm" target="_blank">WeChat Mini Program QR Code Generator</a>
@@ -585,6 +655,10 @@ A: Absolutely! Here's how:
 <a href="https://fly63.com/tool/excel_img" target="_blank">Excel Image Extractor Tool (Batch Extract Images from Excel)</a>
 
 <a href="https://fly63.com/tool/img_colorreverse" target="_blank">Image Color Inversion Tool (Reverse Image Colors for Negative Effect)</a>
+
+<a href="https://fly63.com/tool/pdf_intensify"   target="_blank">pdf copy-paste modification prevention tool (convert pdf content into images)</a>
+
+<a href="https://fly63.com/tool/img_colorpicker"   target="_blank">Picture color extractor Online generator (Picture color extraction and recognition)</a>
 
 ### Life Tools
 
@@ -752,6 +826,20 @@ A: Absolutely! Here's how:
 
 <a href="https://fly63.com/tool/day_riqi" target="_blank">Date and Time Difference Calculator (Time Interval Counter)</a>
 
+<a href="https://fly63.com/tool/24jieqi"   target="_blank">Query the corresponding time of 24 solar terms (24 solar terms song/meaning and understanding)</a>
+
+<a href="https://fly63.com/tool/adjusted_weight"   target="_blank">Adjust Weight/Ideal Weight Calculator</a>
+
+<a href="https://fly63.com/tool/ffmi_calculator"   target="_blank">No Fat Mass Index Calculation (FFMI Muscle Level Calculator)</a>
+
+<a href="https://fly63.com/tool/absi_calculator"   target="_blank">Body Size Index Calculator Online Calculation (ABSI Body Size Index)</a>
+
+<a href="https://fly63.com/tool/subway_search"   target="_blank">National subway route query tool (entire subway station map)</a>
+
+<a href="https://fly63.com/tool/dianfei"   target="_blank">Online electricity bill calculator (device power consumption calculation tool)</a>
+
+<a href="https://fly63.com/tool/oil_calculator"   target="_blank">Car fuel consumption calculator (how to calculate car fuel consumption)</a>
+
 ### Entertainment Related
 
 <a href="https://fly63.com/php/dujitang" target="_blank">Poisonous Chicken Soup Quotes</a>
@@ -849,6 +937,12 @@ A: Absolutely! Here's how:
 <a href=/tool/mofang" target="_blank">Online Rubik's Cube Simulator (play with a Rubik's cube online)</>
 
 <a href="https://fly63.com/tool/reversi" target="_blank">Online Reversi (Othello)</a>
+
+<a href="https://fly63.com/tool/poetry_chains" target="_blank">Fill in the upper and lower sentences of ancient poetry</a>
+
+<a href="https://fly63.com/tool/dinosaur" target="_blank">Dinosaur Run Mini games web version</a>
+
+<a href="https://fly63.com/tool/looptap" target="_blank">LoopTape Mini games to kill time (simple and fun reaction games)</a>
 
 ### Documentation Tutorials
 
@@ -1022,7 +1116,7 @@ A: Absolutely! Here's how:
 
 <a href="https://fly63.com/tool/file_resize"   target="_blank">File Volume Size Mod Tool (Online File Expansion)</a>
 
-<a href="https://fly63.com/tool/shortcut_chrome"   target="_blank"gt;Chrome Browser Command Line and Shortcut Reference</a>
+<a href="https://fly63.com/tool/shortcut_chrome"   target="_blank">Chrome Browser Command Line and Shortcut Reference</a>
 
 <a href="https://fly63.com/tool/lorem_ipsum"target="_blank">Lorem Ipsum Random Text Generator</a>
 
@@ -1031,6 +1125,16 @@ A: Absolutely! Here's how:
 <a href="https://fly63.com/toolcountry_code"   target="_blank">Global Country Abbreviation Inquiry Tool (Country and Region Code)</a>
 
 <a href="https://fly63.com/tool/gpa_calculator"   target="_blank">Course Grade Point GPA Calculator (Online Credit Grade Point Cal)</a>
+
+<a href="https://fly63.com/tool/matrix_calculator"   target="_blank" class="red">Matrix calculator (matrix multiplication/division/equivalence/rank inversion/formula operation)</a>
+
+<a href="https://fly63.com/tool/pi_query"   target="_blank">PI Pi digit number searcher (π query number)</a>
+
+<a href="https://fly63.com/tool/bignum_calculator"   target="_blank">Very large integer decimal precise calculator (large number calculation tool)</a>
+
+<a href="https://fly63.com/tool/cat_age"   target="_blank">Cat Age Calculator (Cat Age Converter)</a>
+
+<a href="https://fly63.com/tool/salary_cal"   target="_blank">Real-time salary calculator web version (view income per second)</a>
 
 ### Third-Party Tools
 
