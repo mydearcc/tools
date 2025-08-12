@@ -63,16 +63,6 @@ A: Absolutely! Here's how:
 
 ---
 
-## 🚀 Getting Started
-1. Visit [https://www.fly63.com]((https://fly63.com/tool/home.html)
-2. Use browser translation if needed
-3. Browse categories or search using tool names:
-   - "JSON formatter"
-   - "CSS minifier"
-   - "QR generator"
-4. Input data → Get instant results
-
----
 
 # Quick access
 
