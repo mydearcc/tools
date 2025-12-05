@@ -1174,7 +1174,7 @@ Creating is not easy, your appreciation and recognition are the greatest motivat
 
 Method 1: <a href="https://afdian.com/a/fly63" target="_blank" rel="nofollow">Aifadian</a>
 
-Method 2: <a href="http://hao.fly63.com/img/zf.webp" target="_blank" rel="nofollow">Alipay/WeChat</a>
+Method 2: <a href="https://fly63.com/img/zf.webp" target="_blank" rel="nofollow">Alipay/WeChat</a>
 
 ## Star History
 
