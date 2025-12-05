@@ -12,4 +12,4 @@ lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cl
 polar: # Replace with a single Polar username
 buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
 #custom: http://hao.fly63.com/images/zf.jpg  # Replace with up to 4 custom sponsorship URLs e.g., ['http://hao.fly63.com/images/zf.jpg']
-custom: ['https://afdian.com/a/fly63','http://hao.fly63.com/img/zf.webp']
+custom: ['https://afdian.com/a/fly63','https://fly63.com/img/zf.webp']
