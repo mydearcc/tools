@@ -1143,7 +1143,7 @@
 
 方式一：<a href="https://afdian.com/a/fly63"   target="_blank" rel="nofollow">爱发电</a>
 
-方式二：<a href="http://hao.fly63.com/img/zf.webp"   target="_blank" rel="nofollow">支付宝/微信</a>
+方式二：<a href="https://fly63.com/img/zf.webp"   target="_blank" rel="nofollow">支付宝/微信</a>
 
 ## Star History
 
