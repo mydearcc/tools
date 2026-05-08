@@ -17,8 +17,7 @@ function ajax(conf) {
 	var xhr = new XMLHttpRequest();
 	xhr.open("GET", conf.url, true);
 	xhr.onreadystatechange = function() {
-		console.log('xhr',xhr);
-		if (xhr && xhr.readyState == 4 && xhr.status == 200) {
+				if (xhr && xhr.readyState == 4 && xhr.status == 200) {
 			var data=JSON.parse(xhr.response);
 			conf.success(data);
 		}
