@@ -1166,8 +1166,6 @@ A: Absolutely! Here's how:
 
 <a href="https://www.vpsor.cn?userCode=ghb575" target="_blank" rel="nofollow">Silicon Cloud Server/Virtual Host</a>
 
-<a href="http://tb.fly63.com" target="_blank" rel="nofollow">Taobao Coupons</a>
-
 ## Appreciate the Author
 
 Creating is not easy, your appreciation and recognition are the greatest motivation for my updates:
