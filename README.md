@@ -1127,6 +1127,8 @@
 
 <a href="https://woc.space/"   target="_blank" rel="nofollow">全球不限速大文件交付/协作平台</a>
 
+<a href="https://p32929.github.io/shrinkkit/"   target="_blank" rel="nofollow">ShrinkKit_浏览器端批量图片压缩与EXIF查看</a>
+
 ### 优惠券领取
 
 <a href="https://web.fly63.com/nav/2907"   target="_blank" rel="nofollow">阿里云优惠券</a>
