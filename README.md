@@ -525,6 +525,8 @@
 
 <a href="https://web.fly63.com/tool/imgformat"   target="_blank">图片格式webp/png/jpeg转换工具</a>
 
+<a href="https://fileontap.com/heic-to-png/"   target="_blank">HEIC转PNG在线工具（浏览器本地处理免上传）</a>
+
 <a href="https://web.fly63.com/tool/pdf2img"   target="_blank">PDF文件转换图片工具</a>
 
 <a href="https://web.fly63.com/tool/img2char"   target="_blank">在线将图片生成ascii字符画</a>
